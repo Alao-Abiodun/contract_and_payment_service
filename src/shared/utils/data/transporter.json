@@ -1,0 +1,307 @@
+[
+  {
+    "transporterName": "Multipro Consumer Products Ltd",
+    "id": "10004026",
+    "transporterType": "Dedicated"
+  },
+  {
+    "transporterName": "Oluremi Yusuf Nigeria Enterpri",
+    "id": "10003810",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "ibplc",
+    "id": "0",
+    "transporterType": "Own"
+  },
+  {
+    "transporterName": "Cobil Nigeria Limited",
+    "id": "10003943",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "New Philchris",
+    "id": "10004607",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "Zindziswa Concept Limited",
+    "id": "10004847",
+    "transporterType": "Dedicated"
+  },
+  {
+    "transporterName": "Nabades Tabades Investment Limited",
+    "id": "10004028",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "D. ONYEKA SERVICES LIMITED",
+    "id": "10004311",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "Pure Igwe Enterprises",
+    "id": "10004051",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "ADEKUNLE  HAULAGE",
+    "id": "10004126",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "Felan Global Resources Ltd",
+    "id": "10004357",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "Abam Innovation Concepts",
+    "id": "200444",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "Acao Integrated Services",
+    "id": "10003910",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "INNOIL NIGERIA LTD",
+    "id": "10003987",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "C U Mbaji Sons General Drv",
+    "id": "10003948",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "Uchenna V.Adinu Ventures",
+    "id": "10004813",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "Achama Holdings General Drv",
+    "id": "10004122",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "A A GLOBAL",
+    "id": "10004119",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "Ezebuilo Oil and Gas Ltd",
+    "id": "10004353",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "solly bukky",
+    "id": "10003859",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "Toyin Akinyoade Enterprises",
+    "id": "10004089",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "Iron Products Industries Ltd",
+    "id": "10003748",
+    "transporterType": "Dedicated"
+  },
+  {
+    "transporterName": "L.O & Sons",
+    "id": "10003770",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "Sunny-Ola",
+    "id": "10003865",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "Fidelity Stores",
+    "id": "10003711",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "Macmason",
+    "id": "200414",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "Funcil & Sons",
+    "id": "10003717",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "FID ITEGBE",
+    "id": "10004358",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "CIHCOTEL CLASSIQUE LTD",
+    "id": "10003941",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "Aniwaco Resources Limited",
+    "id": "10003915",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "ECOLOGIQUE TRANSPORT SOLUTIONS LIMITED",
+    "id": "10013426",
+    "transporterType": "Dedicated"
+  },
+  {
+    "transporterName": "IYKE ELON LOGISTICS",
+    "id": "10012854",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "Frederick Okafor",
+    "id": "2004141",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "AZ Ceramics World Limited",
+    "id": "10004181",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "Engineering Master Nigeria Limited",
+    "id": "10003957",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "GLOBAL JODAAB",
+    "id": "10004394",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "Nifkodebs",
+    "id": "10003797",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "ODUNAYO JOY GLOBAL CONCEPT",
+    "id": "10003806",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "OLAKUNLE JEBUTU",
+    "id": "100038061",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "Bayo Adeyemo Sons",
+    "id": "10003662",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "Merzba",
+    "id": "10003779",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "Attic Constructions Ltd",
+    "id": "10004168",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "Nkem Brothers Company(NIG) Ltd",
+    "id": "10004616",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "Mine Is Yours Multi Trade Ltd",
+    "id": "10004587",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "Chimek Obiajulu Nig. Ltd",
+    "id": "10004247",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "Sky Pride Enterprises",
+    "id": "10004738",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "L. C. MUOKA",
+    "id": "10004541",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "OSDIC GENERAL INDUSTRIES LTD",
+    "id": "10003812",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "ARIKADIS",
+    "id": "10003652",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "JONASON Nigeria Limited",
+    "id": "10004496",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "Rickwal Integrated Limited",
+    "id": "200438",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "Travellers Palace Hotel Ltd",
+    "id": "10004803",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "Ugo Multiple International Ltd",
+    "id": "10004814",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "Erihns Ventures",
+    "id": "10004341",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "Yomi",
+    "id": "10003808",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "Fotoland",
+    "id": "10003713",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "EXCELL SERVICES NIGERIA",
+    "id": "10004350",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "Jem Corperate Service Gen Drv",
+    "id": "10004482",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "Ifechi Merchandise Limited",
+    "id": "10012864",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "Oja Trans Limited - Bnk",
+    "id": "10004635",
+    "transporterType": "3PL"
+  },
+  {
+    "transporterName": "Kayomix Limited",
+    "id": "10004507",
+    "transporterType": "3PL"
+  }
+]

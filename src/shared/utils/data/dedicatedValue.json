@@ -1,0 +1,51 @@
+[
+    {
+      "dieselRate": 1012,
+      "truckMileage": 2.2,
+      "sparesDollarRate": 0,
+      "tyreDollarRate": 0,
+      "tyreCostUsd": 0,
+      "averageLife": 0,
+      "tyreUsedInTruck": 0,
+      "sparePartCostUsd": 0,
+      "spareMaintainanceCost": null,
+      "other": 0
+    },
+    {
+      "dieselRate": 670,
+      "truckMileage": 2.1,
+      "sparesDollarRate": 580,
+      "tyreDollarRate": 580,
+      "tyreCostUsd": 250,
+      "averageLife": 40000,
+      "tyreUsedInTruck": 20,
+      "sparePartCostUsd": 0.13,
+      "spareMaintainanceCost": null,
+      "other": 11
+    },
+    {
+      "dieselRate": 1012,
+      "truckMileage": 2.1,
+      "sparesDollarRate": 580,
+      "tyreDollarRate": 780,
+      "tyreCostUsd": 198.717948717949,
+      "averageLife": 42000,
+      "tyreUsedInTruck": 22,
+      "sparePartCostUsd": 0.13,
+      "spareMaintainanceCost": 45,
+      "other": 80
+    },
+    {
+      "dieselRate": 670,
+      "truckMileage": 2.1,
+      "sparesDollarRate": 580,
+      "tyreDollarRate": 580,
+      "tyreCostUsd": 250,
+      "averageLife": 40000,
+      "tyreUsedInTruck": 20,
+      "sparePartCostUsd": 0.13,
+      "spareMaintainanceCost": null,
+      "other": 11
+    }
+  ]
+  

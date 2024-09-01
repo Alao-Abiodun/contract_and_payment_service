@@ -1,0 +1,1474 @@
+[
+    {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Adamawa",
+    "region": "AD",
+    "distance": "1272",
+    "id": "NG1CAD"
+  },
+  {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Akwa Ibom",
+    "region": "AK",
+    "distance": "621",
+    "id": "NG1CAK"
+  },
+  {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Anambra",
+    "region": "AN",
+    "distance": "422",
+    "id": "NG1CAN"
+  },
+  {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Bauchi",
+    "region": "BA",
+    "distance": "984",
+    "id": "NG1CBA"
+  },
+  {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Bayelsa",
+    "region": "BY",
+    "distance": "490",
+    "id": "NG1CBY"
+  },
+  {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Benue",
+    "region": "BE",
+    "distance": "609",
+    "id": "NG1CBE"
+  },
+  {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Borno",
+    "region": "BO",
+    "distance": "1365",
+    "id": "NG1CBO"
+  },
+  {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Cross River",
+    "region": "CR",
+    "distance": "718",
+    "id": "NG1CCR"
+  },
+  {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Delta",
+    "region": "DE",
+    "distance": "365",
+    "id": "NG1CDE"
+  },
+  {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Ebonyi",
+    "region": "EB",
+    "distance": "579",
+    "id": "NG1CEB"
+  },
+  {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Edo",
+    "region": "ED",
+    "distance": "307",
+    "id": "NG1CED"
+  },
+  {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Ekiti",
+    "region": "EK",
+    "distance": "175",
+    "id": "NG1CEK"
+  },
+  {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Enugu",
+    "region": "EN",
+    "distance": "501",
+    "id": "NG1CEN"
+  },
+  {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Abuja",
+    "region": "FC",
+    "distance": "520",
+    "id": "NG1CFC"
+  },
+  {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Gombe",
+    "region": "GO",
+    "distance": "1149",
+    "id": "NG1CGO"
+  },
+  {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Imo",
+    "region": "IM",
+    "distance": "480",
+    "id": "NG1CIM"
+  },
+  {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Jigawa",
+    "region": "JI",
+    "distance": "969",
+    "id": "NG1CJI"
+  },
+  {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Kaduna",
+    "region": "KD",
+    "distance": "674",
+    "id": "NG1CKD"
+  },
+  {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Kano",
+    "region": "KN",
+    "distance": "833",
+    "id": "NG1CKN"
+  },
+  {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Katsina",
+    "region": "KT",
+    "distance": "844",
+    "id": "NG1CKT"
+  },
+  {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Kebbi",
+    "region": "KE",
+    "distance": "634",
+    "id": "NG1CKE"
+  },
+  {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Kogi",
+    "region": "KO",
+    "distance": "380",
+    "id": "NG1CKO"
+  },
+  {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Kwara",
+    "region": "KW",
+    "distance": "198",
+    "id": "NG1CKW"
+  },
+  {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Lagos",
+    "region": "LA",
+    "distance": "101",
+    "id": "NG1CLA"
+  },
+  {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Nasarawa",
+    "region": "NA",
+    "distance": "550",
+    "id": "NG1CNA"
+  },
+  {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Niger",
+    "region": "NI",
+    "distance": "361",
+    "id": "NG1CNI"
+  },
+  {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Ogun",
+    "region": "OG",
+    "distance": "78",
+    "id": "NG1COG"
+  },
+  {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Ondo",
+    "region": "ON",
+    "distance": "108",
+    "id": "NG1CON"
+  },
+  {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Osun",
+    "region": "OS",
+    "distance": "46.6",
+    "id": "NG1COS"
+  },
+  {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Oyo",
+    "region": "OY",
+    "distance": "27.3",
+    "id": "NG1COY"
+  },
+  {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Plateau",
+    "region": "PL",
+    "distance": "857",
+    "id": "NG1CPL"
+  },
+  {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Rivers",
+    "region": "RI",
+    "distance": "544",
+    "id": "NG1CRI"
+  },
+  {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Sokoto",
+    "region": "SO",
+    "distance": "839",
+    "id": "NG1CSO"
+  },
+  {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Taraba",
+    "region": "TA",
+    "distance": "1001",
+    "id": "NG1CTA"
+  },
+  {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Yobe",
+    "region": "YO",
+    "distance": "1227",
+    "id": "NG1CYO"
+  },
+  {
+    "siteId": "NG1C",
+    "siteName": "ABI Ibadan DC",
+    "destination": "Zamfara",
+    "region": "ZA",
+    "distance": "800",
+    "id": "NG1CZA"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Abia",
+    "region": "AB",
+    "distance": "251",
+    "id": "NG1EAB"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Adamawa",
+    "region": "AD",
+    "distance": "990",
+    "id": "NG1EAD"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Akwa Ibom",
+    "region": "AK",
+    "distance": "339",
+    "id": "NG1EAK"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Anambra",
+    "region": "AN",
+    "distance": "140",
+    "id": "NG1EAN"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Bauchi",
+    "region": "BA",
+    "distance": "829",
+    "id": "NG1EBA"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Bayelsa",
+    "region": "BY",
+    "distance": "187",
+    "id": "NG1EBY"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Benue",
+    "region": "BE",
+    "distance": "487",
+    "id": "NG1EBE"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Borno",
+    "region": "BO",
+    "distance": "1281",
+    "id": "NG1EBO"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Cross River",
+    "region": "CR",
+    "distance": "436",
+    "id": "NG1ECR"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Delta",
+    "region": "DE",
+    "distance": "61.8",
+    "id": "NG1EDE"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Ebonyi",
+    "region": "EB",
+    "distance": "297",
+    "id": "NG1EEB"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Edo",
+    "region": "ED",
+    "distance": "34.3",
+    "id": "NG1EED"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Ekiti",
+    "region": "EK",
+    "distance": "168",
+    "id": "NG1EEK"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Enugu",
+    "region": "EN",
+    "distance": "219",
+    "id": "NG1EEN"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Abuja",
+    "region": "FC",
+    "distance": "403",
+    "id": "NG1EFC"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Gombe",
+    "region": "GO",
+    "distance": "995",
+    "id": "NG1EGO"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Imo",
+    "region": "IM",
+    "distance": "200",
+    "id": "NG1EIM"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Jigawa",
+    "region": "JI",
+    "distance": "959",
+    "id": "NG1EJI"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Kaduna",
+    "region": "KD",
+    "distance": "592",
+    "id": "NG1EKD"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Kano",
+    "region": "KN",
+    "distance": "823",
+    "id": "NG1EKN"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Katsina",
+    "region": "KT",
+    "distance": "916",
+    "id": "NG1EKT"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Kebbi",
+    "region": "KE",
+    "distance": "852",
+    "id": "NG1EKE"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Kogi",
+    "region": "KO",
+    "distance": "268",
+    "id": "NG1EKO"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Kwara",
+    "region": "KW",
+    "distance": "416",
+    "id": "NG1EKW"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Lagos",
+    "region": "LA",
+    "distance": "286",
+    "id": "NG1ELA"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Nasarawa",
+    "region": "NA",
+    "distance": "433",
+    "id": "NG1ENA"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Niger",
+    "region": "NI",
+    "distance": "580",
+    "id": "NG1ENI"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Ogun",
+    "region": "OG",
+    "distance": "262",
+    "id": "NG1EOG"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Ondo",
+    "region": "ON",
+    "distance": "120",
+    "id": "NG1EON"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Osun",
+    "region": "OS",
+    "distance": "223",
+    "id": "NG1EOS"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Oyo",
+    "region": "OY",
+    "distance": "313",
+    "id": "NG1EOY"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Plateau",
+    "region": "PL",
+    "distance": "702",
+    "id": "NG1EPL"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Rivers",
+    "region": "RI",
+    "distance": "241",
+    "id": "NG1ERI"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Sokoto",
+    "region": "SO",
+    "distance": "1058",
+    "id": "NG1ESO"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Taraba",
+    "region": "TA",
+    "distance": "722",
+    "id": "NG1ETA"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Yobe",
+    "region": "YO",
+    "distance": "1143",
+    "id": "NG1EYO"
+  },
+  {
+    "siteId": "NG1E",
+    "siteName": "ABI Benin DC",
+    "destination": "Zamfara",
+    "region": "ZA",
+    "distance": "955",
+    "id": "NG1EZA"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Abia",
+    "region": "AB",
+    "distance": "508",
+    "id": "NG1GAB"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Adamawa",
+    "region": "AD",
+    "distance": "782",
+    "id": "NG1GAD"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Akwa Ibom",
+    "region": "AK",
+    "distance": "589",
+    "id": "NG1GAK"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Anambra",
+    "region": "AN",
+    "distance": "370",
+    "id": "NG1GAN"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Bauchi",
+    "region": "BA",
+    "distance": "399",
+    "id": "NG1GBA"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Bayelsa",
+    "region": "BY",
+    "distance": "600",
+    "id": "NG1GBY"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Benue",
+    "region": "BE",
+    "distance": "348",
+    "id": "NG1GBE"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Borno",
+    "region": "BO",
+    "distance": "850",
+    "id": "NG1GBO"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Cross River",
+    "region": "CR",
+    "distance": "502",
+    "id": "NG1GCR"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Delta",
+    "region": "DE",
+    "distance": "498",
+    "id": "NG1GDE"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Ebonyi",
+    "region": "EB",
+    "distance": "435",
+    "id": "NG1GEB"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Edo",
+    "region": "ED",
+    "distance": "357",
+    "id": "NG1GED"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Ekiti",
+    "region": "EK",
+    "distance": "312",
+    "id": "NG1GEK"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Enugu",
+    "region": "EN",
+    "distance": "373",
+    "id": "NG1GEN"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Abuja",
+    "region": "FC",
+    "distance": "20",
+    "id": "NG1GFC"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Gombe",
+    "region": "GO",
+    "distance": "564",
+    "id": "NG1GGO"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Imo",
+    "region": "IM",
+    "distance": "503",
+    "id": "NG1GIM"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Jigawa",
+    "region": "JI",
+    "distance": "549",
+    "id": "NG1GJI"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Kaduna",
+    "region": "KD",
+    "distance": "182",
+    "id": "NG1GKD"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Kano",
+    "region": "KN",
+    "distance": "414",
+    "id": "NG1GKN"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Katsina",
+    "region": "KT",
+    "distance": "506",
+    "id": "NG1GKT"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Kebbi",
+    "region": "KE",
+    "distance": "533",
+    "id": "NG1GKE"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Kogi",
+    "region": "KO",
+    "distance": "144",
+    "id": "NG1GKO"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Kwara",
+    "region": "KW",
+    "distance": "476",
+    "id": "NG1GKW"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Lagos",
+    "region": "LA",
+    "distance": "695",
+    "id": "NG1GLA"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Nasarawa",
+    "region": "NA",
+    "distance": "54.1",
+    "id": "NG1GNA"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Niger",
+    "region": "NI",
+    "distance": "305",
+    "id": "NG1GNI"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Ogun",
+    "region": "OG",
+    "distance": "671",
+    "id": "NG1GOG"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Ondo",
+    "region": "ON",
+    "distance": "398",
+    "id": "NG1GON"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Osun",
+    "region": "OS",
+    "distance": "451",
+    "id": "NG1GOS"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Oyo",
+    "region": "OY",
+    "distance": "503",
+    "id": "NG1GOY"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Plateau",
+    "region": "PL",
+    "distance": "272",
+    "id": "NG1GPL"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Rivers",
+    "region": "RI",
+    "distance": "605",
+    "id": "NG1GRI"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Sokoto",
+    "region": "SO",
+    "distance": "738",
+    "id": "NG1GSO"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Taraba",
+    "region": "TA",
+    "distance": "632",
+    "id": "NG1GTA"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Yobe",
+    "region": "YO",
+    "distance": "712",
+    "id": "NG1GYO"
+  },
+  {
+    "siteId": "NG1G",
+    "siteName": "ABI Abuja DC",
+    "destination": "Zamfara",
+    "region": "ZA",
+    "distance": "545",
+    "id": "NG1GZA"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Abia",
+    "region": "AB",
+    "distance": "363",
+    "id": "NG1FAB"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Adamawa",
+    "region": "AD",
+    "distance": "582",
+    "id": "NG1FAD"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Akwa Ibom",
+    "region": "AK",
+    "distance": "415",
+    "id": "NG1FAK"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Anambra",
+    "region": "AN",
+    "distance": "307",
+    "id": "NG1FAN"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Bauchi",
+    "region": "BA",
+    "distance": "405",
+    "id": "NG1FBA"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Bayelsa",
+    "region": "BY",
+    "distance": "488",
+    "id": "NG1FBY"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Benue",
+    "region": "BE",
+    "distance": "24.9",
+    "id": "NG1FBE"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Borno",
+    "region": "BO",
+    "distance": "856",
+    "id": "NG1FBO"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Cross River",
+    "region": "CR",
+    "distance": "222",
+    "id": "NG1FCR"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Delta",
+    "region": "DE",
+    "distance": "500",
+    "id": "NG1FDE"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Ebonyi",
+    "region": "EB",
+    "distance": "213",
+    "id": "NG1FEB"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Edo",
+    "region": "ED",
+    "distance": "410",
+    "id": "NG1FED"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Ekiti",
+    "region": "EK",
+    "distance": "390",
+    "id": "NG1FEK"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Enugu",
+    "region": "EN",
+    "distance": "228",
+    "id": "NG1FEN"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Abuja",
+    "region": "FC",
+    "distance": "296",
+    "id": "NG1FFC"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Gombe",
+    "region": "GO",
+    "distance": "570",
+    "id": "NG1FGO"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Imo",
+    "region": "IM",
+    "distance": "363",
+    "id": "NG1FIM"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Jigawa",
+    "region": "JI",
+    "distance": "727",
+    "id": "NG1FJI"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Kaduna",
+    "region": "KD",
+    "distance": "454",
+    "id": "NG1FKD"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Kano",
+    "region": "KN",
+    "distance": "588",
+    "id": "NG1FKN"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Katsina",
+    "region": "KT",
+    "distance": "777",
+    "id": "NG1FKT"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Kebbi",
+    "region": "KE",
+    "distance": "815",
+    "id": "NG1FKE"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Kogi",
+    "region": "KO",
+    "distance": "254",
+    "id": "NG1FKO"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Kwara",
+    "region": "KW",
+    "distance": "596",
+    "id": "NG1FKW"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Lagos",
+    "region": "LA",
+    "distance": "747",
+    "id": "NG1FLA"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Nasarawa",
+    "region": "NA",
+    "distance": "191",
+    "id": "NG1FNA"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Niger",
+    "region": "NI",
+    "distance": "587",
+    "id": "NG1FNI"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Ogun",
+    "region": "OG",
+    "distance": "724",
+    "id": "NG1FOG"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Ondo",
+    "region": "ON",
+    "distance": "457",
+    "id": "NG1FON"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Osun",
+    "region": "OS",
+    "distance": "510",
+    "id": "NG1FOS"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Oyo",
+    "region": "OY",
+    "distance": "592",
+    "id": "NG1FOY"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Plateau",
+    "region": "PL",
+    "distance": "278",
+    "id": "NG1FPL"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Rivers",
+    "region": "RI",
+    "distance": "481",
+    "id": "NG1FRI"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Sokoto",
+    "region": "SO",
+    "distance": "953",
+    "id": "NG1FSO"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Taraba",
+    "region": "TA",
+    "distance": "311",
+    "id": "NG1FTA"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Yobe",
+    "region": "YO",
+    "distance": "718",
+    "id": "NG1FYO"
+  },
+  {
+    "siteId": "NG1F",
+    "siteName": "ABI Makurdi DC",
+    "destination": "Zamfara",
+    "region": "ZA",
+    "distance": "816",
+    "id": "NG1FZA"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Abia",
+    "region": "AB",
+    "distance": "635",
+    "id": "NG1DAB"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Adamawa",
+    "region": "AD",
+    "distance": "1203",
+    "id": "NG1DAD"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Akwa Ibom",
+    "region": "AK",
+    "distance": "723",
+    "id": "NG1DAK"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Anambra",
+    "region": "AN",
+    "distance": "524",
+    "id": "NG1DAN"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Bauchi",
+    "region": "BA",
+    "distance": "819",
+    "id": "NG1DBA"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Bayelsa",
+    "region": "BY",
+    "distance": "592",
+    "id": "NG1DBY"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Benue",
+    "region": "BE",
+    "distance": "562",
+    "id": "NG1DBE"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Borno",
+    "region": "BO",
+    "distance": "1201",
+    "id": "NG1DBO"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Cross River",
+    "region": "CR",
+    "distance": "694",
+    "id": "NG1DCR"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Delta",
+    "region": "DE",
+    "distance": "467",
+    "id": "NG1DDE"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Ebonyi",
+    "region": "EB",
+    "distance": "555",
+    "id": "NG1DEB"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Edo",
+    "region": "ED",
+    "distance": "285",
+    "id": "NG1DED"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Ekiti",
+    "region": "EK",
+    "distance": "121",
+    "id": "NG1DEK"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Enugu",
+    "region": "EN",
+    "distance": "491",
+    "id": "NG1DEN"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Abuja",
+    "region": "FC",
+    "distance": "454",
+    "id": "NG1DFC"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Gombe",
+    "region": "GO",
+    "distance": "984",
+    "id": "NG1DGO"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Imo",
+    "region": "IM",
+    "distance": "582",
+    "id": "NG1DIM"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Jigawa",
+    "region": "JI",
+    "distance": "805",
+    "id": "NG1DJI"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Kaduna",
+    "region": "KD",
+    "distance": "509",
+    "id": "NG1DKD"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Kano",
+    "region": "KN",
+    "distance": "669",
+    "id": "NG1DKN"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Katsina",
+    "region": "KT",
+    "distance": "679",
+    "id": "NG1DKT"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Kebbi",
+    "region": "KE",
+    "distance": "469",
+    "id": "NG1DKE"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Kogi",
+    "region": "KO",
+    "distance": "303",
+    "id": "NG1DKO"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Kwara",
+    "region": "KW",
+    "distance": "33.5",
+    "id": "NG1DKW"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Lagos",
+    "region": "LA",
+    "distance": "276",
+    "id": "NG1DLA"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Nasarawa",
+    "region": "NA",
+    "distance": "472",
+    "id": "NG1DNA"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Niger",
+    "region": "NI",
+    "distance": "197",
+    "id": "NG1DNI"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Ogun",
+    "region": "OG",
+    "distance": "252",
+    "id": "NG1DOG"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Ondo",
+    "region": "ON",
+    "distance": "212",
+    "id": "NG1DON"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Osun",
+    "region": "OS",
+    "distance": "131",
+    "id": "NG1DOS"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Oyo",
+    "region": "OY",
+    "distance": "191",
+    "id": "NG1DOY"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Plateau",
+    "region": "PL",
+    "distance": "692",
+    "id": "NG1DPL"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Rivers",
+    "region": "RI",
+    "distance": "646",
+    "id": "NG1DRI"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Sokoto",
+    "region": "SO",
+    "distance": "675",
+    "id": "NG1DSO"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Taraba",
+    "region": "TA",
+    "distance": "849",
+    "id": "NG1DTA"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Yobe",
+    "region": "YO",
+    "distance": "1063",
+    "id": "NG1DYO"
+  },
+  {
+    "siteId": "NG1D",
+    "siteName": "ABI Ilorin DC",
+    "destination": "Zamfara",
+    "region": "ZA",
+    "distance": "635",
+    "id": "NG1DZA"
+  }
+]

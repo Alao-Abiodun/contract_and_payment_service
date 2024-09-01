@@ -1,0 +1,4750 @@
+[
+  {
+    "truckNumber": "EPE270XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "KER803XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "NSH416YG",
+    "truckSize": 6
+  },
+  {
+    "truckNumber": "AAH310XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED688XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAA675XC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAA679XC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAA127XX",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "DED689XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE236XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAB290YL",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKM832YQ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAB649XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAB650XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAB651XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAB694YJ",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AAB695YJ",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AAB696YJ",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AAB612XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAB613XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAB614XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T15071LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "ABA157ZJ",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "ABC130XD",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "ABC243XD",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "ABC416XA",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "ABC181XD",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "ABG482XF",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "ABG483XF",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "ABG487XF",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "ABH541XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "ABH772XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "T15072LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "ABJ335XD",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "ABJ628XV",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T15073LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T15074LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "ABM597XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "ABM619XA",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "ABM692XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "ASB858XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T15075LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T15076LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T15077LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAB201YL",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAB253YL",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAB286YL",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "ATN188XB",
+    "truckSize": 6
+  },
+  {
+    "truckNumber": "ATN213XB",
+    "truckSize": 6
+  },
+  {
+    "truckNumber": "ATN293XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AWK131YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AWK141YC",
+    "truckSize": 6
+  },
+  {
+    "truckNumber": "AWK144YC",
+    "truckSize": 6
+  },
+  {
+    "truckNumber": "AWK145YC",
+    "truckSize": 6
+  },
+  {
+    "truckNumber": "AWK207ZW",
+    "truckSize": 6
+  },
+  {
+    "truckNumber": "LEW337XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AWK373YZ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AWK968YZ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS54YE",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AXB20XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AYE721ZQ",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "MUS55YE",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS57YE",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "BDG467XZ",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "BDG830XW",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "MUS68YE",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS70YE",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKD389YE",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKD380YE",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKD390YE",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKD391YE",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TTN685ZQ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE146XV",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "EPE148XB",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "EPE222XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE223XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE224XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE225XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE226XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE227XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE228XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE229XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE230XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE231XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE232XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE240XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE252XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE253XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE254XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE255XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE256XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE257XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE258XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE259XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE260XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE261XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE262XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE263XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE264XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE265XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE266XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE267XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE268XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE269XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE271XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS928XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE893XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE894XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE713XG",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "TRE895XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE762XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE763XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE764XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE766XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE767XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE768XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE769XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE770XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE771XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE896XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE897XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE489XZ",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "EPE642XM",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "EPE768XH",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "TRE898XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE910XX",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "EPE967XL",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "FDY646XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "FDY647XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "FDY648XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "FDY649XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "FDY690XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE899XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE900XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "JBD521XZ",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "TRE901XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE902XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "JJJ465XB",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "TRE903XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "JJJ909YC",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "TRE904XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE905XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE906XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE907XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE908XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "JJJ185XD",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE909XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE910XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE911XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE912XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE913XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE914XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE915XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE916XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE917XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE918XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE919XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE921XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "JJS507XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "JJS640XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "JJS660XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "JJS694XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "JJS73XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "TRE923XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE929XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE933XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "JJT137XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "JJT145YH",
+    "truckSize": 6
+  },
+  {
+    "truckNumber": "JJT310XT",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "JJT491ZI",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "JJT607YH",
+    "truckSize": 6
+  },
+  {
+    "truckNumber": "JJT635YH",
+    "truckSize": 6
+  },
+  {
+    "truckNumber": "JJT64ZH",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "JJT641YH",
+    "truckSize": 6
+  },
+  {
+    "truckNumber": "JJT65ZH",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T20281LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T20282LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "PHC714ZT",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "PKA456YR",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "PKA457YR",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "PKA458YR",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "PKA459YR",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "PKA461YR",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "PRN393XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "T20283LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "PRN396XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "PRN108XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "T20284LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "PRN422XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "PRN423XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "PRN88XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "PRN92XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "T20285LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T20286LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "RSH352XD",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T20287LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "RSH201XN",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "RSH236XN",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "T20288LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "RW237FZE",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "SAP922XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T20289LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "SGB220YS",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "SGM578ZR",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "SGM580ZR",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "SGM583ZR",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "SGM418ZR",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "SGM582ZR",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "T20290LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T20291LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "SKA923XA",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "T20292LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "SKP425XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "SMK465XUTOYI",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "T20293LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T20294LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T20295LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "SMK269YD",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "T20296LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T20297LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T20298LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T20299LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T20300LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T20301LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "SMK637XX",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "T20302LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T20303LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T20304LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T20305LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T20306LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T20307LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "SSE221XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "SSE299XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "T20308LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T20309LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "SSE407XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "SSU441XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "SSU442XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "SSU443XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "SSU445XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "SSU517XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "T20310LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T20311LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T20312LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T20313LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "SSU409XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "T20314LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "SSU444XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "SSU471XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "SSU472XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "SSU478XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "SSU481XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "T20315LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T20316LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T20317LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T20318LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T20319LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T20320LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T20321LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T20322LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T20323LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T20324LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T20325LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T20326LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T20327LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "YEE33XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "YEE14XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "ZBL20YG",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "ZLL220XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "ABN96YN",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "ADK451XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "ADK567XB",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "ADK87XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "T20328LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T20329LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AE913UMA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AFK914XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AFK872XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AFN723YL",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AFN724YL",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AFN725YL",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "T20330LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "SGM585ZR",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "GDD862YH",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AGG887XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AGU49ZJ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AGU521ZW",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "AHD332XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "BEN921ZY",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "BER692XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "BGM607XA",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "BGM631XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "BGT50XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "EPE234X",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE233XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "BKL201ZJ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "BKL202ZJ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "BKL967XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "BKL990XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "BKW971XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "BNY214XA",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "BRR591XA",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "BRS445XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "BRS446XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "BRS449XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "BRS452XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "BRS454XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "BRS455XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "BRS456XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "BRS457XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "BRS458XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "BRS462XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "BRS463XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "BRS464XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "BRS440XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "BRS441XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "BRS443XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "FFF649XB",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "FGG100ZD",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "FGG884YG",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "FKJ466XY",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "FKJ489YA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "FKJ684YA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "FKJ125XW",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "FKJ219XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "FKJ569XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "FKJ571XX",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "FKJ972XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "FST379XS",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "JMT887XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "KER806XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "KER814XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "KJA210YC",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "KJA283YD",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "KJA256FZ",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "KJA578XM",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "KJA579XM",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "KJA671XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "KJA696YE",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "KJA90XF",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "KLE600XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "KPP159XD",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "KRD262XT",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "KRD867XH",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "KRD870XH",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "MUN317ZA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "MUN318ZA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "MUN84ZA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS733XB",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "MUS812XA",
+    "truckSize": 6
+  },
+  {
+    "truckNumber": "MUS903XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS904XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS905XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS906XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS907XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS908XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS909XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS910XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS911XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS912XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS913XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS914XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS915XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS916XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS917XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS918XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS919XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS920XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS921XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS922XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS923XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS924XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS925XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS926XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS927XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS929XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS931XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS932XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS933XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS934XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS935XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS936XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS937XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS938XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS939XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS940XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS941XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS942XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS943XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS944XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS945XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS946XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS947XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS948XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS949XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS950XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS951XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS952XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS953XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS954XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS955XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS956XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS957XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS958XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS959XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS960XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS961XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS962XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS963XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS964XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS965XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS966XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS967XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS968XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS969XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS970XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS971XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS972XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS171XS",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "MUS188XX",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "MUS446XQ",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "MUS611XB",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "NCH468XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "NEM775XL",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "NEN10XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "NEN236ZD",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "NEN336YX",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "NEN524ZD",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "NEN584ZD",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "NNE845ZG",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "NSH110XA",
+    "truckSize": 6
+  },
+  {
+    "truckNumber": "NSH413YG",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "NSH414YG",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "NSH75ZF",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "NSH763XA",
+    "truckSize": 6
+  },
+  {
+    "truckNumber": "NZM375XA",
+    "truckSize": 14
+  },
+  {
+    "truckNumber": "NZM642XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "XH502LSR",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "XL309ENU",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "XP261KSF",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "XW716MUS",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "XX55JJJ",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "XY349ABJ",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "XY684JJJ",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "XZ418FST",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "XZ336AKD",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "YA831AKD",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "YAB158XB",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "AKU697YJ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKU698YJ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKU699YJ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKU701YJ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "APP142XB",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "APP707XD",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "ASB101ZL",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "ASB106ZL",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "ASB271XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "ASB284XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "ASB305ZL",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "ASB307ZL",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "ASB350ZH",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "ASB509ZL",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DTN915XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "DTN493XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "DTN495XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "DTN496XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "DTN497XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "DTN592XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "DTN912XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "EDE692XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "EDT572XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "EKY639XZ",
+    "truckSize": 2
+  },
+  {
+    "truckNumber": "EKY642XZ",
+    "truckSize": 4
+  },
+  {
+    "truckNumber": "EKY643XZ",
+    "truckSize": 4
+  },
+  {
+    "truckNumber": "EKY644XZ",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "EKY101XZ",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "EKY322YC",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "EKY50YE",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "EKY51YE",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "EKY53YE",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "EKY581XR",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "ENU113XN",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "ENU178XE",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "ENU179XE",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "ENU180XE",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "ENU181XE",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "ENU182XE",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "ENU183XE",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "ENU185XE",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "ENU358XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "ENU541ZH",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "ENU642ZK",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "ENU644ZK",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "ENU685XY",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "ENU831XY",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "ENU852ZE",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "ENU930ZK",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "GGE319XV",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "GGE378XS",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "GGE108XZ",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "GGE109XZ",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "GGE217XZ",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "GGU461XA",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "GNN144XD",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "GNN145XD",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "GUE488XA",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "GWK763XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "GWK852XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "GWK861XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "HAL942XA",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "HTE581XA",
+    "truckSize": 6
+  },
+  {
+    "truckNumber": "HTE582XA",
+    "truckSize": 6
+  },
+  {
+    "truckNumber": "JBD113ZY",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "JBD331XZ",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "JBD332XZ",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "JBD626ZY",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "JBD628ZY",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LES544XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "LES562XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "LES617XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "LES619XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "LES634XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LES636XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "LES645XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "LES660XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "LES667XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LES687XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "LES768XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LES769XA",
+    "truckSize": 20
+  },
+  {
+    "truckNumber": "LES770XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LES959XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LES967XA",
+    "truckSize": 6
+  },
+  {
+    "truckNumber": "LES968XA",
+    "truckSize": 6
+  },
+  {
+    "truckNumber": "LEW250XF",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "LEW41XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LEW589XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "LEW646XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "LEW74XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "LEW876XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "LEW911XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LEW957XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "LEW973XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "LSD541YA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "LSD662XD",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "LSR398XQ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LSR635YE",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LSR757YD",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "LSR827XM",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "MGN20XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "MHA527XA",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "XA803MHA",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "XA805MHA",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "XA807MHA",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "XA964GWK",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "XB365RUM",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "XB368RUM",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "XB370RUM",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "XB371RUM",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "XB372RUM",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "XB426LFA",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "XB18RGB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "XB384JJS",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "XB621LEW",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AJK194XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AJL212XD",
+    "truckSize": 6
+  },
+  {
+    "truckNumber": "AJL245XD",
+    "truckSize": 6
+  },
+  {
+    "truckNumber": "AJL249XD",
+    "truckSize": 6
+  },
+  {
+    "truckNumber": "AJL251XD",
+    "truckSize": 6
+  },
+  {
+    "truckNumber": "AJL865XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKD609XX",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "AKD882YA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AKD222YC",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AKD58XG",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AKD60XG",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AKD783YD",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AKD962XX",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AKM216YQ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKM218YQ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKM246ZT",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AKM248ZT",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AKM249ZT",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AKM251ZT",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "AKM28ZY",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AKM371ZT",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKM372ZT",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKM373ZT",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKM92ZY",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AKM09XJ",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AKM93ZY",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AKR935YV",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AKU677YJ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKU679YJ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKU681YJ",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AKU685YJ",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AKU686YJ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKU687YJ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKU694YJ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "BZR801XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED203YC",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "DED204YC",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "DED322YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED323YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED324YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED325YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED326YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED327YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED328YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED329YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED330YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED331YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED332YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED333YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED334YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED336YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED337YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED338YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED339YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED340YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED341YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED342YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED343YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED344YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED345YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED346YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED347YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED348YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED349YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED350YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED351YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED352YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED353YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED354YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED355YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED357YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED358YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED359YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED360YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED361YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED362YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED363YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED364YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED365YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED366YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED367YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED368YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED369YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED370YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED371YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED90XB",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "DED91XB",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "DEK117XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "DGB401XR",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DRK60XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DTN914XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "FST575YC",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "FST724XX",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "FST725XX",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "FST728XX",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "FST729XX",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "FST731XX",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "FZE511RV",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "GBE642ZC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "GBE643ZC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "GBE644ZC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "GBE645ZC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "GBE646ZC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "GDD106YD",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "GDD268ZP",
+    "truckSize": 14
+  },
+  {
+    "truckNumber": "GDD724ZT",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "GDD725ZT",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "GDD863YE",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "KRD473XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "KSF129XW",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "KSF304XM",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "KSF709XZ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "KTU211YC",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "KTU901YA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "KTU170XY",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LAR369XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LAR372XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LAR373XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LAR670YD",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "LAW313XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "LES161XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "LES413XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "T11652LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T6242LA",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "T7814LA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "TDE387XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "TRE484YJ",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "TRE540YJ",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "TRE183XB",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "TRE186XB",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "TRE330YJ",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "TTD755ZY",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TTD756ZY",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TTN110ZQ",
+    "truckSize": 26
+  },
+  {
+    "truckNumber": "TTN318ZQ",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "TUN33XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "UKP637ZU",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "UKP639ZU",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "UKP641ZU",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "UWN164YV",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "UWN182ZR",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "UWN183ZR",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "UWN200ZR",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "UWN241YV",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "UWN691ZB",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "UWN692ZB",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "UWN979ZL",
+    "truckSize": 8
+  },
+  {
+    "truckNumber": "WDE173XB",
+    "truckSize": 6
+  },
+  {
+    "truckNumber": "WDE174XB",
+    "truckSize": 6
+  },
+  {
+    "truckNumber": "WDE742YE",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "WDE743YE",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "WDE744YE",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "WDE745YE",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "WDE746YE",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "WDE877YE",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "WDE878YE",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "WDE879YE",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "WDE881YE",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "WDE880YE",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "XA365TTU",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "XA568MMR",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "XA718RRT",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "XA798MHA",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "HKW43XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "LEW331XF",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LEW332XF",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LEW334XF",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LEW336XF",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LEW337XF",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LEW348XF",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LEW350XF",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LEW335XF",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LEW339XF",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LEW342XF",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LEW345XF",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LEW346XF",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LEW340XF",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LEW341XF",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LEW347XF",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "FGG949ZV",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "FGG825ZV",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "FFF610XB",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AAH180XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LEW343XF",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LEW349XF",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS50YE",
+    "truckSize": 20
+  },
+  {
+    "truckNumber": "MUS75YE",
+    "truckSize": 20
+  },
+  {
+    "truckNumber": "MUS66YE",
+    "truckSize": 20
+  },
+  {
+    "truckNumber": "LEW338XF",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LEW344XF",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS37YE",
+    "truckSize": 20
+  },
+  {
+    "truckNumber": "AAH439XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAH433XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAH442XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "BDA913XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "LEW333XF",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "UWN163YV",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "KRD629XR",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "UWN162YV",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T11287LA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "RLU959XC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "GGE235YE",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AKM97ZY",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "CHR543XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "FGG948ZV",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DAV212XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "SSU534XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AAH446XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AGU152XB",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "T11653LA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "LES971XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE235XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE242XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS38YE",
+    "truckSize": 20
+  },
+  {
+    "truckNumber": "EPE237XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE248XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LEW838XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "FKJ965XH",
+    "truckSize": 4
+  },
+  {
+    "truckNumber": "AKM98ZY",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "EPE245XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE250XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE241XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE247XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE251XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE243XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE246XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE238XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE249XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "JJT610YH",
+    "truckSize": 6
+  },
+  {
+    "truckNumber": "WDE679XB",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AWK450ZQ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "FST730XX",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AKL102XE",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "XB366RUM",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "BDG468XZ",
+    "truckSize": 8
+  },
+  {
+    "truckNumber": "ENU771XQ",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "MUS569XK",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "KTD138LG",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "FZE673CR",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "BER706XA",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "ENU517XY",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "KTD128LG",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "PHC513XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "BRR714XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKM263YQ",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "DEK76XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "KER876XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AKD598XB",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AKM905XY",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "EMR10XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "PRN501XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "FST2100YE",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "MEK433XB",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "GGE714YD",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AAA512XB",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "DGB396XR",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "GED263XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "DGB400XB",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "TTD963YA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "SGM383XB",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "YEK96XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "KLE49XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "SRA374XB",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "T6660LA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AAA86XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "GGE811YE",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "PKA626YR",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "LSR562YF",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "T16832LA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AAA669XQ",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AAB483XB",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AAB640ZY",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AKD337YE",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "APP326XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "DDA993XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "DED533XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "EKY842XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "FKJ419YF",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "GBE656YC",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "GGE208YE",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "KSF537YE",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "KSF495XW",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "KTU316YD",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "KTU276XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "LAR450XB",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "LND399XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "LSD794YD",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "SMK626XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "T11748LA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "T-11341LA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "TTD777YD",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "EKY641XZ",
+    "truckSize": 4
+  },
+  {
+    "truckNumber": "WWR39YQ",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "SAP167YF",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EPE244XX",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "BLF634XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAH311XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAH372XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAH431XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAH432XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAH435XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAH436XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAH443XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAH447XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAH448XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "NZM401XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "NZM737XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAB256YL",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAB287YL",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAB288YL",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED731XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "GBE902ZC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "GBE904ZC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "GBE905ZC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "GBE906ZC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAB289YL",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LAR626XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LAR627XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKM713YQ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKM714YQ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKM715YQ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKM716YQ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKM717YQ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKM718YQ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKM749YQ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKM748YQ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKM750YQ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LAR597XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAB303YL",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAB252YL",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKM217YQ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKM542YQ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AGL500XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AGL495XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AGL476XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AGL473XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TTD878ZY",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AGL489XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AGL488XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AGL501XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AGL506XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "FFF805XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAB942XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AGL503XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AGL481XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAB944XB",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AGL472XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AGL474XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AGL477XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AGL478XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AGL479XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AGL482XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MHA798XA",
+    "truckSize": 20
+  },
+  {
+    "truckNumber": "DED335YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED356YC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "UMA461XA",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "APP655XA",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "FZE19AK",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "FZE40AK",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "BER705XA",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "LSD637XP",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "BDG720XW",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "USL247ZB",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "T14585LA",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "MUS36YE",
+    "truckSize": 20
+  },
+  {
+    "truckNumber": "MUS40YE",
+    "truckSize": 20
+  },
+  {
+    "truckNumber": "MUS41YE",
+    "truckSize": 20
+  },
+  {
+    "truckNumber": "AGL483XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AGL484XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AGL487XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AGL490XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AGL491XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AGL493XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AGL497XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AGL504XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AGL505XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKM543YQ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKM940ZY",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "JBD627ZY",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "SGM377XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TTD880ZY",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TTD882ZY",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "WDE680XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "WDE681XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "WDE682XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AGL480XW",
+    "truckSize": 26
+  },
+  {
+    "truckNumber": "AGL471XW",
+    "truckSize": 26
+  },
+  {
+    "truckNumber": "SGM584ZR",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "SGM586ZR",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AAB615XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE621XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE622XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MEK602XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AYE490XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKM278YQ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKM670YQ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKM280YQ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKM277YQ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE620XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AYE489XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAB616XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MEK600XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKM669YQ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AYE491XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LAR460XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MEK599XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MEK601XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKM668YQ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKM276YQ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AYE492XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MEK603XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AYE488XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "DED377XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKM279YQ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS930XW",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "JJT492ZI",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "ENU850ZE",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "JJT490ZI",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EDE927XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "DTN68XB",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "EDE926XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "EDE928XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "EDE929XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "EKY572YD",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "TTD882YA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "JJS711XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "KRD719XN",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "FKJ28YG",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "LND520YF",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "LGB666XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "MUS43YE",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS48YE",
+    "truckSize": 20
+  },
+  {
+    "truckNumber": "MUS49YE",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS51YE",
+    "truckSize": 20
+  },
+  {
+    "truckNumber": "MUS53YE",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS56YE",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "MUS59YE",
+    "truckSize": 20
+  },
+  {
+    "truckNumber": "MUS61YE",
+    "truckSize": 20
+  },
+  {
+    "truckNumber": "MUS62YE",
+    "truckSize": 20
+  },
+  {
+    "truckNumber": "MUS64YE",
+    "truckSize": 20
+  },
+  {
+    "truckNumber": "MUS65YE",
+    "truckSize": 20
+  },
+  {
+    "truckNumber": "MUS71YE",
+    "truckSize": 20
+  },
+  {
+    "truckNumber": "MUS73YE",
+    "truckSize": 20
+  },
+  {
+    "truckNumber": "MUS77YE",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LES04XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LEW817XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "MUN228XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "T474LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LEW84XF",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AAH104XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAH444XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAH449XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "NZM730XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "PKA460YR",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAH445XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAH434XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAH437XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAH438XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAH440XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EKY636XA",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "TRE920XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE922XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE924XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE925XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE926XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE927XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE928XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE930XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE931XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE932XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "ENU72XR",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "FZE34AL",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "FZA515CZ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AHD155XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "BNY236XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "ENU559XC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "KWL675XA",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "YEN318XY",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "GWB564XY",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "UMA598XC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LGD750XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "ENU581XQ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "YEN855XY",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "UWN09XE",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "RRT230XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "NNE433ZK",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "SKA838XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "BKL202XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "ENU435XY",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "ENU967XT",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "ENU362XT",
+    "truckSize": 6
+  },
+  {
+    "truckNumber": "GDD166ZN",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "ABN152XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "UMZ438ZC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T13346LA",
+    "truckSize": 6
+  },
+  {
+    "truckNumber": "T13347LA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "GBK273XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "ENU87XY",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "JJT39XC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AAH143XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "KNT848XP",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "KJA227YG",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "KSF157YG",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "SMK423YF",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "T17697LA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AGL557XY",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "GGE272XJ",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LES26XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LES03XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TRE698XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LEW371XF",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "BDG815ZA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "T17423LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T17418LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "SMK292XD",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "MUS982XJ",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "T20360LA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "T20398LA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "EKY520YG",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AKM690YQ",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "T1341LA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "SSU540XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "TTD658XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "LES33XB",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "LEW309XF",
+    "truckSize": 20
+  },
+  {
+    "truckNumber": "ENU856ZK",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AGL08XJ",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "GBJ837XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "KSF151XB",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "AFK599ZY",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "APR494ZY",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "BWR117XA",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "XK922BDG",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "ABC109XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "T16123LA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "MUE98XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "T17399LA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "APP564XV",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "WDE243XC",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "KJA600YG",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AAB525YL",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "SMK208YF",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "SMK207YF",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "BDG563YF",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "T19749LA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "T16075LA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "T17997LA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "LES83XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LES91XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AGU520ZL",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "KPP53ZF",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "NSK243ZY",
+    "truckSize": 12
+  },
+  {
+    "truckNumber": "ENU133ZG",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "BDG720XE",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "FFE604XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T12557LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "T-17418LA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "TTN723ZQ",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "DED533XB",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "DED821XB",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "GRZ572XA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "T-20360LA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "T-20398LA",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "PRN588XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "PRN621XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "PRN618XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "PRN619XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "PRN623XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "PRN624XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "PRN625XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LES84XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LES85XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LES86XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LES78XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LES81XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LES87XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LES92XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LES93XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LES94XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "LES79XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "UWN985ZB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "ENU851ZE",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "UWN984ZB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "UWN989ZB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "UWN988ZB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "UWN986ZB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "UWN982ZB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "UWN983ZB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "ENU853ZE",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "EBJ638XB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "JJT489ZI",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "UWN981ZB",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "RSH352HD",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "BDA914XA",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "WDE554XC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "WDE555XC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "WDE556XC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "WDE557XC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "WDE558XC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "WDE559XC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "WDE560XC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "WDE561XC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "WDE562XC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "WDE563XC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "WDE564XC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "WDE565XC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "WDE566XC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "WDE567XC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "WDE568XC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "WDE569XC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "WDE570XC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "WDE571XC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "WDE572XC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "WDE573XC",
+    "truckSize": 22
+  },
+  {
+    "truckNumber": "AGL485XW",
+    "truckSize": 26
+  },
+  {
+    "truckNumber": "AGL492XW",
+    "truckSize": 26
+  },
+  {
+    "truckNumber": "EPE1392XY",
+    "truckSize": ""
+  },
+  {
+    "truckNumber": "SSU513XA",
+    "truckSize": ""
+  },
+  {
+    "truckNumber": "NNE858XA",
+    "truckSize": ""
+  },
+  {
+    "truckNumber": "DTN913XA",
+    "truckSize": ""
+  },
+  {
+    "truckNumber": "AKM94ZY",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "AKM96ZY",
+    "truckSize": 10
+  },
+  {
+    "truckNumber": "KRD929XA",
+    "truckSize": ""
+  },
+  {
+    "truckNumber": "",
+    "truckSize": ""
+  }
+]

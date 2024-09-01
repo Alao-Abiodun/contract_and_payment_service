@@ -1,0 +1,950 @@
+[
+  {
+    "truckNumber": "AGL471XW",
+    "transporterId": "0"
+  },
+  {
+    "truckNumber": "SGM584ZR",
+    "transporterId": "0"
+  },
+  {
+    "truckNumber": "SGM586ZR",
+    "transporterId": "0"
+  },
+  {
+    "truckNumber": "AAB615XB",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "TRE621XB",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "TRE622XB",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "MEK602XB",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "AYE490XB",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "AKM278YQ",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "AKM670YQ",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "AKM280YQ",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "AKM277YQ",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "TRE620XB",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "AYE489XB",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "AAB616XB",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "MEK600XB",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "AKM669YQ",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "AYE491XB",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "LAR460XB",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "MEK599XB",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "MEK601XB",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "AKM668YQ",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "AKM276YQ",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "AYE492XB",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "MEK603XB",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "AYE488XB",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "DED377XB",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "AKM279YQ",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "MUS930XW",
+    "transporterId": "10004026"
+  },
+  {
+    "truckNumber": "JJT492ZI",
+    "transporterId": "10003941"
+  },
+  {
+    "truckNumber": "ENU850ZE",
+    "transporterId": "10003941"
+  },
+  {
+    "truckNumber": "JJT490ZI",
+    "transporterId": "10003941"
+  },
+  {
+    "truckNumber": "EDE927XA",
+    "transporterId": "10003662"
+  },
+  {
+    "truckNumber": "DTN68XB",
+    "transporterId": "10003662"
+  },
+  {
+    "truckNumber": "EDE926XA",
+    "transporterId": "10003662"
+  },
+  {
+    "truckNumber": "EDE928XA",
+    "transporterId": "10003662"
+  },
+  {
+    "truckNumber": "EDE929XA",
+    "transporterId": "10003662"
+  },
+  {
+    "truckNumber": "EKY572YD",
+    "transporterId": "10003662"
+  },
+  {
+    "truckNumber": "TTD882YA",
+    "transporterId": "10003662"
+  },
+  {
+    "truckNumber": "JJS711XA",
+    "transporterId": "10003662"
+  },
+  {
+    "truckNumber": "KRD719XN",
+    "transporterId": "10003662"
+  },
+  {
+    "truckNumber": "FKJ28YG",
+    "transporterId": "10004341"
+  },
+  {
+    "truckNumber": "LND520YF",
+    "transporterId": "10004341"
+  },
+  {
+    "truckNumber": "LGB666XA",
+    "transporterId": "200414"
+  },
+  {
+    "truckNumber": "MUS43YE",
+    "transporterId": "10004119"
+  },
+  {
+    "truckNumber": "MUS48YE",
+    "transporterId": "10004119"
+  },
+  {
+    "truckNumber": "MUS49YE",
+    "transporterId": "10004119"
+  },
+  {
+    "truckNumber": "MUS51YE",
+    "transporterId": "10004119"
+  },
+  {
+    "truckNumber": "MUS53YE",
+    "transporterId": "10004119"
+  },
+  {
+    "truckNumber": "MUS56YE",
+    "transporterId": "10004119"
+  },
+  {
+    "truckNumber": "MUS59YE",
+    "transporterId": "10004119"
+  },
+  {
+    "truckNumber": "MUS61YE",
+    "transporterId": "10004119"
+  },
+  {
+    "truckNumber": "MUS62YE",
+    "transporterId": "10004119"
+  },
+  {
+    "truckNumber": "MUS64YE",
+    "transporterId": "10004119"
+  },
+  {
+    "truckNumber": "MUS65YE",
+    "transporterId": "10004119"
+  },
+  {
+    "truckNumber": "MUS71YE",
+    "transporterId": "10004119"
+  },
+  {
+    "truckNumber": "MUS73YE",
+    "transporterId": "10004119"
+  },
+  {
+    "truckNumber": "MUS77YE",
+    "transporterId": "10004119"
+  },
+  {
+    "truckNumber": "LES04XB",
+    "transporterId": "10004358"
+  },
+  {
+    "truckNumber": "LEW817XA",
+    "transporterId": "10003711"
+  },
+  {
+    "truckNumber": "MUN228XA",
+    "transporterId": "10003779"
+  },
+  {
+    "truckNumber": "T474LA",
+    "transporterId": "10004607"
+  },
+  {
+    "truckNumber": "LEW84XF",
+    "transporterId": "10003810"
+  },
+  {
+    "truckNumber": "AAH104XA",
+    "transporterId": "0"
+  },
+  {
+    "truckNumber": "AAH444XA",
+    "transporterId": "0"
+  },
+  {
+    "truckNumber": "AAH449XA",
+    "transporterId": "0"
+  },
+  {
+    "truckNumber": "NZM730XA",
+    "transporterId": "0"
+  },
+  {
+    "truckNumber": "PKA460YR",
+    "transporterId": "0"
+  },
+  {
+    "truckNumber": "AAH445XA",
+    "transporterId": "0"
+  },
+  {
+    "truckNumber": "AAH434XA",
+    "transporterId": "0"
+  },
+  {
+    "truckNumber": "AAH437XA",
+    "transporterId": "0"
+  },
+  {
+    "truckNumber": "AAH438XA",
+    "transporterId": "0"
+  },
+  {
+    "truckNumber": "AAH440XA",
+    "transporterId": "0"
+  },
+  {
+    "truckNumber": "EKY636XA",
+    "transporterId": "10003957"
+  },
+  {
+    "truckNumber": "TRE920XB",
+    "transporterId": "10003748"
+  },
+  {
+    "truckNumber": "TRE922XB",
+    "transporterId": "10003748"
+  },
+  {
+    "truckNumber": "TRE924XB",
+    "transporterId": "10003748"
+  },
+  {
+    "truckNumber": "TRE925XB",
+    "transporterId": "10003748"
+  },
+  {
+    "truckNumber": "TRE926XB",
+    "transporterId": "10003748"
+  },
+  {
+    "truckNumber": "TRE927XB",
+    "transporterId": "10003748"
+  },
+  {
+    "truckNumber": "TRE928XB",
+    "transporterId": "10003748"
+  },
+  {
+    "truckNumber": "TRE930XB",
+    "transporterId": "10003748"
+  },
+  {
+    "truckNumber": "TRE931XB",
+    "transporterId": "10003748"
+  },
+  {
+    "truckNumber": "TRE932XB",
+    "transporterId": "10003748"
+  },
+  {
+    "truckNumber": "ENU72XR",
+    "transporterId": "200444"
+  },
+  {
+    "truckNumber": "FZE34AL",
+    "transporterId": "10003910"
+  },
+  {
+    "truckNumber": "FZA515CZ",
+    "transporterId": "10003910"
+  },
+  {
+    "truckNumber": "AHD155XA",
+    "transporterId": "10003910"
+  },
+  {
+    "truckNumber": "BNY236XA",
+    "transporterId": "10003987"
+  },
+  {
+    "truckNumber": "ENU559XC",
+    "transporterId": "10012854"
+  },
+  {
+    "truckNumber": "KWL675XA",
+    "transporterId": "10004028"
+  },
+  {
+    "truckNumber": "YEN318XY",
+    "transporterId": "10004051"
+  },
+  {
+    "truckNumber": "GWB564XY",
+    "transporterId": "10004051"
+  },
+  {
+    "truckNumber": "UMA598XC",
+    "transporterId": "10004089"
+  },
+  {
+    "truckNumber": "LGD750XA",
+    "transporterId": "10004089"
+  },
+  {
+    "truckNumber": "ENU581XQ",
+    "transporterId": "10004089"
+  },
+  {
+    "truckNumber": "YEN855XY",
+    "transporterId": "10004089"
+  },
+  {
+    "truckNumber": "UWN09XE",
+    "transporterId": "10004181"
+  },
+  {
+    "truckNumber": "RRT230XA",
+    "transporterId": "10004357"
+  },
+  {
+    "truckNumber": "NNE433ZK",
+    "transporterId": "10012864"
+  },
+  {
+    "truckNumber": "SKA838XA",
+    "transporterId": "10004587"
+  },
+  {
+    "truckNumber": "BKL202XA",
+    "transporterId": "10004587"
+  },
+  {
+    "truckNumber": "ENU435XY",
+    "transporterId": "10004616"
+  },
+  {
+    "truckNumber": "ENU967XT",
+    "transporterId": "10004616"
+  },
+  {
+    "truckNumber": "ENU362XT",
+    "transporterId": "200438"
+  },
+  {
+    "truckNumber": "GDD166ZN",
+    "transporterId": "10004122"
+  },
+  {
+    "truckNumber": "ABN152XB",
+    "transporterId": "10004181"
+  },
+  {
+    "truckNumber": "UMZ438ZC",
+    "transporterId": "10004353"
+  },
+  {
+    "truckNumber": "T13346LA",
+    "transporterId": "10004814"
+  },
+  {
+    "truckNumber": "T13347LA",
+    "transporterId": "10004814"
+  },
+  {
+    "truckNumber": "GBK273XA",
+    "transporterId": "10004814"
+  },
+  {
+    "truckNumber": "ENU87XY",
+    "transporterId": "10004814"
+  },
+  {
+    "truckNumber": "JJT39XC",
+    "transporterId": "10004814"
+  },
+  {
+    "truckNumber": "AAH143XB",
+    "transporterId": "10004311"
+  },
+  {
+    "truckNumber": "KNT848XP",
+    "transporterId": "10004311"
+  },
+  {
+    "truckNumber": "KJA227YG",
+    "transporterId": "10004394"
+  },
+  {
+    "truckNumber": "KSF157YG",
+    "transporterId": "10004394"
+  },
+  {
+    "truckNumber": "SMK423YF",
+    "transporterId": "10004394"
+  },
+  {
+    "truckNumber": "T17697LA",
+    "transporterId": "10004394"
+  },
+  {
+    "truckNumber": "AGL557XY",
+    "transporterId": "10004358"
+  },
+  {
+    "truckNumber": "GGE272XJ",
+    "transporterId": "10004358"
+  },
+  {
+    "truckNumber": "LES26XA",
+    "transporterId": "10004358"
+  },
+  {
+    "truckNumber": "LES03XB",
+    "transporterId": "10004358"
+  },
+  {
+    "truckNumber": "TRE698XB",
+    "transporterId": "10004358"
+  },
+  {
+    "truckNumber": "LEW371XF",
+    "transporterId": "10004358"
+  },
+  {
+    "truckNumber": "BDG815ZA",
+    "transporterId": "10003779"
+  },
+  {
+    "truckNumber": "T17423LA",
+    "transporterId": "10003713"
+  },
+  {
+    "truckNumber": "T17418LA",
+    "transporterId": "10003713"
+  },
+  {
+    "truckNumber": "SMK292XD",
+    "transporterId": "10003713"
+  },
+  {
+    "truckNumber": "MUS982XJ",
+    "transporterId": "10003717"
+  },
+  {
+    "truckNumber": "T20360LA",
+    "transporterId": "10003797"
+  },
+  {
+    "truckNumber": "T20398LA",
+    "transporterId": "10003797"
+  },
+  {
+    "truckNumber": "EKY520YG",
+    "transporterId": "10004126"
+  },
+  {
+    "truckNumber": "AKM690YQ",
+    "transporterId": "10004126"
+  },
+  {
+    "truckNumber": "T1341LA",
+    "transporterId": "10004126"
+  },
+  {
+    "truckNumber": "SSU540XA",
+    "transporterId": "10004607"
+  },
+  {
+    "truckNumber": "TTD658XA",
+    "transporterId": "10004607"
+  },
+  {
+    "truckNumber": "LES33XB",
+    "transporterId": "10004607"
+  },
+  {
+    "truckNumber": "LEW309XF",
+    "transporterId": "10004607"
+  },
+  {
+    "truckNumber": "ENU856ZK",
+    "transporterId": "10003812"
+  },
+  {
+    "truckNumber": "AGL08XJ",
+    "transporterId": "10003859"
+  },
+  {
+    "truckNumber": "GBJ837XA",
+    "transporterId": "10003910"
+  },
+  {
+    "truckNumber": "KSF151XB",
+    "transporterId": "10003910"
+  },
+  {
+    "truckNumber": "AFK599ZY",
+    "transporterId": "10003957"
+  },
+  {
+    "truckNumber": "APR494ZY",
+    "transporterId": "10004089"
+  },
+  {
+    "truckNumber": "BWR117XA",
+    "transporterId": "10004028"
+  },
+  {
+    "truckNumber": "XK922BDG",
+    "transporterId": "10004028"
+  },
+  {
+    "truckNumber": "ABC109XA",
+    "transporterId": "10004635"
+  },
+  {
+    "truckNumber": "T16123LA",
+    "transporterId": "10013426"
+  },
+  {
+    "truckNumber": "MUE98XA",
+    "transporterId": "200414"
+  },
+  {
+    "truckNumber": "T17399LA",
+    "transporterId": "10013426"
+  },
+  {
+    "truckNumber": "APP564XV",
+    "transporterId": "10003859"
+  },
+  {
+    "truckNumber": "WDE243XC",
+    "transporterId": "10003859"
+  },
+  {
+    "truckNumber": "KJA600YG",
+    "transporterId": "10003810"
+  },
+  {
+    "truckNumber": "AAB525YL",
+    "transporterId": "10003859"
+  },
+  {
+    "truckNumber": "SMK208YF",
+    "transporterId": "10003859"
+  },
+  {
+    "truckNumber": "SMK207YF",
+    "transporterId": "10003859"
+  },
+  {
+    "truckNumber": "BDG563YF",
+    "transporterId": "10004507"
+  },
+  {
+    "truckNumber": "T19749LA",
+    "transporterId": "10013426"
+  },
+  {
+    "truckNumber": "T16075LA",
+    "transporterId": "10013426"
+  },
+  {
+    "truckNumber": "T17997LA",
+    "transporterId": "10013426"
+  },
+  {
+    "truckNumber": "LES83XB",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "LES91XB",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "AGU520ZL",
+    "transporterId": "10004311"
+  },
+  {
+    "truckNumber": "KPP53ZF",
+    "transporterId": "10012864"
+  },
+  {
+    "truckNumber": "NSK243ZY",
+    "transporterId": "10004357"
+  },
+  {
+    "truckNumber": "ENU133ZG",
+    "transporterId": "10004616"
+  },
+  {
+    "truckNumber": "BDG720XE",
+    "transporterId": "10004394"
+  },
+  {
+    "truckNumber": "FFE604XB",
+    "transporterId": "10004394"
+  },
+  {
+    "truckNumber": "T12557LA",
+    "transporterId": "10004394"
+  },
+  {
+    "truckNumber": "T-17418LA",
+    "transporterId": "10003713"
+  },
+  {
+    "truckNumber": "TTN723ZQ",
+    "transporterId": "10003713"
+  },
+  {
+    "truckNumber": "DED533XB",
+    "transporterId": "10003713"
+  },
+  {
+    "truckNumber": "DED821XB",
+    "transporterId": "10003713"
+  },
+  {
+    "truckNumber": "GRZ572XA",
+    "transporterId": "10003797"
+  },
+  {
+    "truckNumber": "T-20360LA",
+    "transporterId": "10003797"
+  },
+  {
+    "truckNumber": "T-20398LA",
+    "transporterId": "10003797"
+  },
+  {
+    "truckNumber": "PRN588XA",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "PRN621XA",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "PRN618XA",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "PRN619XA",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "PRN623XA",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "PRN624XA",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "PRN625XA",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "LES84XB",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "LES85XB",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "LES86XB",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "LES78XB",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "LES81XB",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "LES87XB",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "LES92XB",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "LES93XB",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "LES94XB",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "LES79XB",
+    "transporterId": "10004847"
+  },
+  {
+    "truckNumber": "UWN985ZB",
+    "transporterId": "10003941"
+  },
+  {
+    "truckNumber": "ENU851ZE",
+    "transporterId": "10003941"
+  },
+  {
+    "truckNumber": "UWN984ZB",
+    "transporterId": "10003941"
+  },
+  {
+    "truckNumber": "UWN989ZB",
+    "transporterId": "10003941"
+  },
+  {
+    "truckNumber": "UWN988ZB",
+    "transporterId": "10003941"
+  },
+  {
+    "truckNumber": "UWN986ZB",
+    "transporterId": "10003941"
+  },
+  {
+    "truckNumber": "UWN982ZB",
+    "transporterId": "10003941"
+  },
+  {
+    "truckNumber": "UWN983ZB",
+    "transporterId": "10003941"
+  },
+  {
+    "truckNumber": "ENU853ZE",
+    "transporterId": "10003941"
+  },
+  {
+    "truckNumber": "EBJ638XB",
+    "transporterId": "10003941"
+  },
+  {
+    "truckNumber": "JJT489ZI",
+    "transporterId": "10003941"
+  },
+  {
+    "truckNumber": "UWN981ZB",
+    "transporterId": "10003941"
+  },
+  {
+    "truckNumber": "RSH352HD",
+    "transporterId": "10004311"
+  },
+  {
+    "truckNumber": "BDA914XA",
+    "transporterId": "10004311"
+  },
+  {
+    "truckNumber": "WDE554XC",
+    "transporterId": "10004026"
+  },
+  {
+    "truckNumber": "WDE555XC",
+    "transporterId": "10004026"
+  },
+  {
+    "truckNumber": "WDE556XC",
+    "transporterId": "10004026"
+  },
+  {
+    "truckNumber": "WDE557XC",
+    "transporterId": "10004026"
+  },
+  {
+    "truckNumber": "WDE558XC",
+    "transporterId": "10004026"
+  },
+  {
+    "truckNumber": "WDE559XC",
+    "transporterId": "10004026"
+  },
+  {
+    "truckNumber": "WDE560XC",
+    "transporterId": "10004026"
+  },
+  {
+    "truckNumber": "WDE561XC",
+    "transporterId": "10004026"
+  },
+  {
+    "truckNumber": "WDE562XC",
+    "transporterId": "10004026"
+  },
+  {
+    "truckNumber": "WDE563XC",
+    "transporterId": "10004026"
+  },
+  {
+    "truckNumber": "WDE564XC",
+    "transporterId": "10004026"
+  },
+  {
+    "truckNumber": "WDE565XC",
+    "transporterId": "10004026"
+  },
+  {
+    "truckNumber": "WDE566XC",
+    "transporterId": "10004026"
+  },
+  {
+    "truckNumber": "WDE567XC",
+    "transporterId": "10004026"
+  },
+  {
+    "truckNumber": "WDE568XC",
+    "transporterId": "10004026"
+  },
+  {
+    "truckNumber": "WDE569XC",
+    "transporterId": "10004026"
+  },
+  {
+    "truckNumber": "WDE570XC",
+    "transporterId": "10004026"
+  },
+  {
+    "truckNumber": "WDE571XC",
+    "transporterId": "10004026"
+  },
+  {
+    "truckNumber": "WDE572XC",
+    "transporterId": "10004026"
+  },
+  {
+    "truckNumber": "WDE573XC",
+    "transporterId": "10004026"
+  },
+  {
+    "truckNumber": "AGL485XW",
+    "transporterId": "0"
+  },
+  {
+    "truckNumber": "AGL492XW",
+    "transporterId": "0"
+  },
+  {
+    "truckNumber": "EPE1392XY",
+    "transporterId": ""
+  },
+  {
+    "truckNumber": "SSU513XA",
+    "transporterId": ""
+  },
+  {
+    "truckNumber": "NNE858XA",
+    "transporterId": ""
+  },
+  {
+    "truckNumber": "DTN913XA",
+    "transporterId": ""
+  },
+  {
+    "truckNumber": "AKM94ZY",
+    "transporterId": "0"
+  },
+  {
+    "truckNumber": "AKM96ZY",
+    "transporterId": "0"
+  },
+  {
+    "truckNumber": "KRD929XA",
+    "transporterId": ""
+  }
+]
