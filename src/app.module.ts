@@ -3,7 +3,7 @@ import {
   Module,
   OnApplicationBootstrap,
 } from '@nestjs/common';
-import { UserModule } from './app/user/user.module';
+import { ContractModule } from './app/contract/contract.module';
 import { AuthModule } from './app/auth/auth.module';
 import { config as enviromentConfig } from 'src/shared/config';
 import { LoginService } from './app/auth/services/login.service';
@@ -14,7 +14,7 @@ import { AppController } from './app.controller';
 import { AppService } from './app.service';
 
 @Module({
-  imports: [UserModule, AuthModule, DatabaseModule],
+  imports: [ContractModule, AuthModule, DatabaseModule],
   controllers: [AppController],
   providers: [LoginService, SignupService, AppService],
 })

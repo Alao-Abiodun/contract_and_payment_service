@@ -1,7 +1,4 @@
 import { Injectable, HttpException, HttpStatus } from '@nestjs/common';
-import { EntityManager, Repository } from 'typeorm';
-import { Profile } from '../entity/profile.model';
-import { InjectEntityManager } from '@nestjs/typeorm';
 import { handleErrorCatch } from 'src/shared/utils/helper';
 import { ProfileRepository } from '../repositories/profile.repository';
 import { comparePassword } from 'src/shared/utils/lib/bcrypt.helper';
