@@ -19,9 +19,9 @@ import { AppService } from './app.service';
   providers: [LoginService, SignupService, AppService],
 })
 export class AppModule implements OnApplicationBootstrap {
-  configure(consumer: MiddlewareConsumer) {
-    consumer.apply(AuthMiddleware).forRoutes('v1');
-  }
+  // configure(consumer: MiddlewareConsumer) {
+  //   consumer.apply(AuthMiddleware).forRoutes('v1');
+  // }
   async onApplicationBootstrap() {
     if (enviromentConfig.isDevelopment) {
       console.log(`

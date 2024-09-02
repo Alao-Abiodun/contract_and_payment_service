@@ -1,13 +1,15 @@
 import { Body, Controller, Inject, Post } from '@nestjs/common';
-import { uuid } from 'uuidv4';
+import { v4 as uuidv4 } from 'uuid';
 import { ApiBearerAuth, ApiTags } from '@nestjs/swagger';
 import { LoginService } from './services/login.service';
 import { SignupService } from './services/signup.service';
 import { LoginDto, SignUpDto } from './dto/auth.entity';
+import { Profile } from './interface/profile.interface';
+import { hashPassword } from 'src/shared/utils/lib/bcrypt.helper';
 
 @Controller('/v1/auth')
-@ApiTags('auth')
-@ApiBearerAuth()
+// @ApiTags('auth')
+// @ApiBearerAuth()
 export class AuthController {
   constructor(
     @Inject(LoginService)
@@ -22,26 +24,20 @@ export class AuthController {
   }
 
   @Post('/signup')
-  async signup(@Body() data: SignUpDto) {
-    const { email, password, firstName, lastName, profession, role } = data;
+  async signup(@Body() data: Profile) {
+    const { email, password, first_name, last_name, profession, role } = data;
+
+    const hashedPassword = await hashPassword(password);
 
     const userData = {
       email,
-      password,
-      firstName,
-      lastName,
+      password: hashedPassword,
+      first_name,
+      last_name,
       profession,
       role,
-      balance: 0,
-      id: 0,
-      uuid: uuid(),
-      createdAt: new Date(),
-      updatedAt: new Date(),
+      uuid: uuidv4(),
     };
-
-    delete userData.id;
-    delete userData.createdAt;
-    delete userData.updatedAt;
 
     return this.signupService.signup(userData);
   }

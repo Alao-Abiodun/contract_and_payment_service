@@ -3,58 +3,25 @@ import { EntityManager, Repository } from 'typeorm';
 import { Profile } from '../entity/profile.model';
 import { InjectEntityManager } from '@nestjs/typeorm';
 import { handleErrorCatch } from 'src/shared/utils/helper';
+import { ProfileRepository } from '../repositories/profile.repository';
+import { comparePassword } from 'src/shared/utils/lib/bcrypt.helper';
 
 @Injectable()
 export class LoginService {
-  private profileRepo: Repository<Profile>;
-  constructor(
-    @InjectEntityManager()
-    private readonly entityManager: EntityManager,
-  ) {
-    this.profileRepo = this.entityManager.getRepository(Profile);
+  private readonly repository: ProfileRepository;
+  constructor(repository: ProfileRepository) {
+    this.repository = repository;
   }
 
   async login(email: string, password: string) {
     try {
-      const user = await this.profileRepo.findOne({ where: { email } });
+      const user = await this.repository.getProfileByEmail(email);
       if (!user) {
-        throw new HttpException(
-          {
-            status: HttpStatus.NOT_FOUND,
-            error: 'User not found',
-            message: 'User not found',
-          },
-          HttpStatus.NOT_FOUND,
-        );
+        throw new HttpException('User not found', HttpStatus.NOT_FOUND);
       }
-      if (user.password !== password) {
-        throw new HttpException(
-          {
-            status: HttpStatus.UNAUTHORIZED,
-            error: 'Invalid password',
-            message: 'Invalid password',
-          },
-          HttpStatus.UNAUTHORIZED,
-        );
-      }
-      return user;
-    } catch (err) {
-      handleErrorCatch(err);
-    }
-  }
-
-  async getUserProfile(email: string) {
-    try {
-      const user = await this.profileRepo.findOne({ where: { email } });
-      if (!user) {
-        throw new HttpException(
-          {
-            status: HttpStatus.NOT_FOUND,
-            error: 'User not found',
-            message: 'User not found',
-          },
-          HttpStatus.NOT_FOUND,
-        );
+      const passwordMatch = await comparePassword(password, user.password);
+      if (!passwordMatch) {
+        throw new HttpException('Invalid password', HttpStatus.UNAUTHORIZED);
       }
       return user;
     } catch (err) {
