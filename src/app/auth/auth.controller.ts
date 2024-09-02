@@ -5,7 +5,7 @@ import { LoginService } from './services/login.service';
 import { SignupService } from './services/signup.service';
 import { LoginDto, SignUpDto } from './dto/auth.entity';
 import { Profile } from './interface/profile.interface';
-// import { hashPassword } from '../../shared/utils/helper';
+import { hashPassword } from 'src/shared/utils/lib/bcrypt.helper';
 
 @Controller('/v1/auth')
 // @ApiTags('auth')
@@ -26,11 +26,12 @@ export class AuthController {
   @Post('/signup')
   async signup(@Body() data: Profile) {
     const { email, password, first_name, last_name, profession, role } = data;
-    // const hashedPassword = await hashPassword(password);
+
+    const hashedPassword = await hashPassword(password);
 
     const userData = {
       email,
-      password,
+      password: hashedPassword,
       first_name,
       last_name,
       profession,

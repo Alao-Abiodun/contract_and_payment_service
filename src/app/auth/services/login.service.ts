@@ -4,6 +4,7 @@ import { Profile } from '../entity/profile.model';
 import { InjectEntityManager } from '@nestjs/typeorm';
 import { handleErrorCatch } from 'src/shared/utils/helper';
 import { ProfileRepository } from '../repositories/profile.repository';
+import { comparePassword } from 'src/shared/utils/lib/bcrypt.helper';
 
 @Injectable()
 export class LoginService {
@@ -18,7 +19,8 @@ export class LoginService {
       if (!user) {
         throw new HttpException('User not found', HttpStatus.NOT_FOUND);
       }
-      if (user.password !== password) {
+      const passwordMatch = await comparePassword(password, user.password);
+      if (!passwordMatch) {
         throw new HttpException('Invalid password', HttpStatus.UNAUTHORIZED);
       }
       return user;

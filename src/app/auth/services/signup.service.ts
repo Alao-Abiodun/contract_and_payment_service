@@ -1,4 +1,4 @@
-import { Injectable } from '@nestjs/common';
+import { HttpStatus, Injectable } from '@nestjs/common';
 // import { EntityManager, Repository } from 'typeorm';
 // import { Profile } from '../entity/profile.model';
 import { handleErrorCatch } from 'src/shared/utils/helper';
@@ -18,7 +18,7 @@ export class SignupService {
       data;
     const user = await this.repository.getProfileByEmail(email);
     if (user) {
-      throw new AppError('User already exists', 400);
+      throw new AppError('User already exists', HttpStatus.CONFLICT);
     }
     return await this.repository.createProfile({
       uuid,
