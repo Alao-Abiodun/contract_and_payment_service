@@ -1,13 +1,18 @@
-import { Module } from '@nestjs/common';
-import { TypeOrmModule } from '@nestjs/typeorm';
-import Datasource from './typeOrm.config';
+import { Global, Module } from '@nestjs/common';
+import { DBClient } from './typeOrm.config';
 
+@Global()
 @Module({
-  imports: [
-    TypeOrmModule.forRoot({
-      ...Datasource.options,
-    }),
+  providers: [
+    {
+      provide: 'DB_Client',
+      useFactory: async () => {
+        const client = DBClient();
+        await client.connect();
+        return client;
+      },
+    },
   ],
-  exports: [TypeOrmModule],
+  exports: ['DB_Client'],
 })
 export class DatabaseModule {}
