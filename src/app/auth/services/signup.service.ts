@@ -16,10 +16,10 @@ export class SignupService {
   async signup(data: Profile) {
     const { uuid, email, password, first_name, last_name, profession, role } =
       data;
-    const user = await this.repository.getProfileByEmail(email);
-    if (user) {
-      throw new AppError('User already exists', HttpStatus.CONFLICT);
-    }
+    // const user = await this.repository.getProfileByEmail(email);
+    // if (user) {
+    //   throw new AppError('User already exists', HttpStatus.CONFLICT);
+    // }
     return await this.repository.createProfile({
       uuid,
       email,

@@ -8,8 +8,8 @@ import { Profile } from './interface/profile.interface';
 import { hashPassword } from 'src/shared/utils/lib/bcrypt.helper';
 
 @Controller('/v1/auth')
-// @ApiTags('auth')
-// @ApiBearerAuth()
+@ApiTags('auth')
+@ApiBearerAuth()
 export class AuthController {
   constructor(
     @Inject(LoginService)
