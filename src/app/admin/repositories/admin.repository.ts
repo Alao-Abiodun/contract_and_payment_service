@@ -15,9 +15,12 @@ export class AdminRepository {
         FROM 
             jobs j
         JOIN 
-            profiles p ON j.contract_id = p.id
+            contracts c ON j.contract_id = c.id
+        JOIN 
+            profiles p ON c.contractor_id = p.id
         WHERE 
             j.paid_date BETWEEN $1 AND $2
+            AND p.role = 'contractor'
         GROUP BY 
             p.profession
         ORDER BY 
@@ -46,17 +49,20 @@ export class AdminRepository {
             p.id AS client_id,
             p.first_name || ' ' || p.last_name AS client_name,
             SUM(j.price) AS total_paid
-        FROM 
-            jobs j
-        JOIN 
-            profiles p ON j.client_id = p.id
-        WHERE 
-            j.paid_date BETWEEN $1 AND $2
-        GROUP BY 
-            p.id
-        ORDER BY 
-            total_paid DESC
-        LIMIT $3;
+            FROM 
+                jobs j
+            JOIN 
+                contracts c ON j.contract_id = c.id
+            JOIN 
+                profiles p ON c.client_id = p.id
+            WHERE 
+                j.paid_date BETWEEN $1 AND $2
+                AND p.role = 'client'
+            GROUP BY 
+                p.id
+            ORDER BY 
+                total_paid DESC
+            LIMIT $3;
         `,
         [startDate, endDate, limit],
       );
