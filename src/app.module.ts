@@ -2,11 +2,15 @@ import {
   MiddlewareConsumer,
   Module,
   OnApplicationBootstrap,
+  RequestMethod,
 } from '@nestjs/common';
 import { ContractModule } from './app/contract/contract.module';
 import { AuthModule } from './app/auth/auth.module';
 import { config as enviromentConfig } from 'src/shared/config';
-import { AuthMiddleware } from './auth.guard/auth.middleware';
+import {
+  AuthMiddleware,
+  clientPermissionCheck,
+} from './auth.guard/auth.middleware';
 import { DatabaseModule } from './database/database.module';
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
@@ -23,7 +27,16 @@ import { ContractController } from './app/contract/contract.controller';
 })
 export class AppModule implements OnApplicationBootstrap {
   configure(consumer: MiddlewareConsumer) {
-    consumer.apply(AuthMiddleware).forRoutes(ContractController);
+    consumer
+      .apply(AuthMiddleware)
+      .forRoutes(
+        { path: '/v1/contract/:id', method: RequestMethod.GET },
+        { path: '/v1/:id/pay', method: RequestMethod.POST },
+      );
+
+    consumer
+      .apply(clientPermissionCheck)
+      .forRoutes({ path: '/v1/:id/pay', method: RequestMethod.POST });
   }
   async onApplicationBootstrap() {
     if (enviromentConfig.isDevelopment) {

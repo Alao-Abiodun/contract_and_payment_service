@@ -1,4 +1,12 @@
-import { Body, Controller, Get, Inject, Param, Post } from '@nestjs/common';
+import {
+  Body,
+  Controller,
+  Get,
+  Inject,
+  Param,
+  Post,
+  Req,
+} from '@nestjs/common';
 import { ContractService } from './services/contract.service';
 import { Contract } from './interface/contract.interface';
 import { ApiBearerAuth, ApiTags } from '@nestjs/swagger';
@@ -23,7 +31,7 @@ export class ContractController {
   }
 
   @Get('/:id')
-  async getContractById(@Param('id') id: string) {
-    return this.contractService.getSingleContracts(id);
+  async getContractById(@Param('id') id: string, @Req() req: any) {
+    return this.contractService.getSingleContracts(id, req.profile.id);
   }
 }

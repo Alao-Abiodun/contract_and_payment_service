@@ -21,12 +21,11 @@ export class AuthMiddleware implements NestMiddleware {
       if (!token) {
         throw new HttpException(`User not authorized`, HttpStatus.UNAUTHORIZED);
       }
-      const user = jwt.verify(token, config.jwtSecret);
+      const profile = jwt.verify(token, config.jwtSecret);
+      req.profile = profile;
       next();
     } catch (err) {
       if (err instanceof jwt.JsonWebTokenError) {
-        // if the error thrown is because the JWT is unauthorized,
-        // return a 401 error
         throw new HttpException(
           {
             status: HttpStatus.UNAUTHORIZED,
@@ -37,6 +36,24 @@ export class AuthMiddleware implements NestMiddleware {
       }
 
       handleErrorCatch(err);
+    }
+  }
+}
+
+@Injectable()
+export class clientPermissionCheck implements NestMiddleware {
+  constructor() {
+    console.log('AuthMiddleware is called');
+  }
+  use(req: Request, res: Response, next: NextFunction) {
+    if (req.profile.role !== profileRoles.CLIENT) {
+      throw new HttpException(
+        {
+          status: HttpStatus.FORBIDDEN,
+          error: `You are not authorized to access this resource`,
+        },
+        HttpStatus.FORBIDDEN,
+      );
     }
   }
 }
