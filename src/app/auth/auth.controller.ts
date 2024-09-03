@@ -1,7 +1,7 @@
 import { Body, Controller, Inject, Param, Post } from '@nestjs/common';
 import { v4 as uuidv4 } from 'uuid';
 import { ApiBearerAuth, ApiTags } from '@nestjs/swagger';
-import { LoginDto } from './dto/auth.entity';
+import { LoginDto } from './dto/auth.dto';
 import { Profile } from './interface/profile.interface';
 import { hashPassword } from 'src/shared/utils/lib/bcrypt.helper';
 import { AuthService } from './services/auth.service';
