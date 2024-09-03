@@ -1,9 +1,6 @@
 import { HttpException, HttpStatus, Logger } from '@nestjs/common';
-import crypto from 'crypto';
 import { config } from 'src/shared/config';
 import * as jwt from 'jsonwebtoken';
-import { PaginationDto } from './dtos/pagination';
-import { CustomerData, SiteData } from '../types/types';
 
 export const handleErrorCatch = (err) => {
   if (

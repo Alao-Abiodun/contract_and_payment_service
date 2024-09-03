@@ -32,4 +32,13 @@ export class ContractRepository {
       handleErrorCatch(err);
     }
   }
+
+  async find() {
+    try {
+      const res = await this.client.query('SELECT * FROM contracts');
+      return res.rows;
+    } catch (err) {
+      handleErrorCatch(err);
+    }
+  }
 }
