@@ -5,11 +5,13 @@ import { JobRepository } from '../repositories/job.repository';
 import AppError from 'src/shared/utils/lib/appError';
 import { v4 as uuidv4 } from 'uuid';
 import { ProfileRepository } from 'src/app/auth/repositories/profile.repository';
+import { Client } from 'pg';
 
 @Injectable()
 export class JobService {
   private readonly repository: JobRepository;
   private readonly profileRepository: ProfileRepository;
+  private readonly client: Client;
   constructor(repository: JobRepository, profileRepository: ProfileRepository) {
     this.repository = repository;
     this.profileRepository = profileRepository;
@@ -36,17 +38,37 @@ export class JobService {
   }
 
   async payJob(id: string, amount: number) {
+    const client = await this.client.connect();
     try {
+      await client.query('BEGIN');
+
       const job = await this.repository.findOne(id);
       if (!job) {
         throw new AppError('Job not found', HttpStatus.NOT_FOUND);
       }
-      const balance = await this.profileRepository.getBalance(id);
 
-      if (balance < amount) {
+      const { client_id, contractor_id } = job;
+      const clientBalance = await this.profileRepository.getBalance(client_id);
+      const contractorBalance = await this.profileRepository.getBalance(
+        contractor_id,
+      );
+
+      if (clientBalance < amount) {
         throw new AppError('Insufficient balance', HttpStatus.BAD_REQUEST);
       }
-      await this.repository.payForJob(id);
-    } catch (error) {}
+
+      await this.profileRepository.updateBalance(client_id, -amount);
+      await this.profileRepository.updateBalance(contractor_id, amount);
+
+      const updatedJob = await this.repository.payForJob(id, client);
+
+      await client.query('COMMIT');
+      return updatedJob;
+    } catch (error) {
+      await client.query('ROLLBACK');
+      throw error;
+    } finally {
+      client.release();
+    }
   }
 }
