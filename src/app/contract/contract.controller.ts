@@ -20,17 +20,17 @@ export class ContractController {
     private readonly contractService: ContractService,
   ) {}
 
-  @Post('/')
+  @Post()
   async createContract(@Body() data: Contract) {
     return this.contractService.createContract(data);
   }
 
-  @Get('/')
+  @Get()
   async getContracts() {
     return this.contractService.getContracts();
   }
 
-  @Get('/:id')
+  @Get(':id')
   async getContractById(@Param('id') id: string, @Req() req: any) {
     return this.contractService.getSingleContracts(id, req.profile.id);
   }

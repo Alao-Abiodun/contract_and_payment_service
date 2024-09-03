@@ -19,10 +19,13 @@ import { ContractService } from './app/contract/services/contract.service';
 import { JobService } from './app/job/services/job.service';
 import { AuthService } from './app/auth/services/auth.service';
 import { ContractController } from './app/contract/contract.controller';
+import { AdminController } from './app/admin/admin.controller';
+import { AdminService } from './app/admin/services/admin.service';
+import { AdminModule } from './app/admin/admin.module';
 
 @Module({
-  imports: [ContractModule, AuthModule, JobModule, DatabaseModule],
-  controllers: [AppController, ContractController],
+  imports: [ContractModule, AuthModule, JobModule, AdminModule, DatabaseModule],
+  controllers: [AppController, ContractController, AdminController],
   providers: [AuthService, ContractService, JobService, AppService],
 })
 export class AppModule implements OnApplicationBootstrap {
