@@ -50,9 +50,21 @@ export class JobRepository {
     }
   }
 
-  async payForJob(id: string) {
+  //   async payForJob(id: string) {
+  //     try {
+  //       const res = await this.client.query(
+  //         'UPDATE jobs SET is_paid = true, paid_date = NOW() WHERE id = $1 RETURNING *;',
+  //         [id],
+  //       );
+  //       return res.rows[0];
+  //     } catch (err) {
+  //       handleErrorCatch(err);
+  //     }
+  //   }
+
+  async payForJob(id: string, client: Client) {
     try {
-      const res = await this.client.query(
+      const res = await client.query(
         'UPDATE jobs SET is_paid = true, paid_date = NOW() WHERE id = $1 RETURNING *;',
         [id],
       );

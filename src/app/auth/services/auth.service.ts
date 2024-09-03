@@ -4,6 +4,7 @@ import { ProfileRepository } from '../repositories/profile.repository';
 import { comparePassword } from 'src/shared/utils/lib/bcrypt.helper';
 import { Profile } from '../interface/profile.interface';
 import { generateJwtToken } from 'src/shared/utils/lib/jwt.helper';
+import { Client } from 'pg';
 
 @Injectable()
 export class AuthService {
@@ -66,7 +67,8 @@ export class AuthService {
 
   async deposit(userId: string, amount: number) {
     try {
-      return await this.repository.updateBalance(userId, amount);
+      const _userId = parseInt(userId);
+      return await this.repository.updateBalance(_userId, amount);
     } catch (err) {
       handleErrorCatch(err);
     }

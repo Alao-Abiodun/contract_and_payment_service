@@ -46,30 +46,25 @@ export class ProfileRepository {
     }
   }
 
-  async getBalance(id: string) {
+  async getBalance(profileId: number) {
     try {
       const res = await this.client.query(
-        'SELECT balance FROM jobs WHERE  = $1',
-        [id],
+        'SELECT balance FROM profiles WHERE id = $1',
+        [profileId],
       );
-      return res.rows[0];
+      return res.rows[0].balance;
     } catch (err) {
       handleErrorCatch(err);
     }
   }
 
-  // update balance using transaction and locks
-  async updateBalance(id: string, amount: number) {
+  async updateBalance(profileId: number, amount: number) {
     try {
-      await this.client.query('BEGIN');
-      const res = await this.client.query(
-        'UPDATE profiles SET balance = balance + $2 WHERE id = $1 RETURNING *;',
-        [id, amount],
+      await this.client.query(
+        'UPDATE profiles SET balance = balance + $1 WHERE id = $2',
+        [amount, profileId],
       );
-      await this.client.query('COMMIT');
-      return res.rows[0];
     } catch (err) {
-      await this.client.query('ROLLBACK');
       handleErrorCatch(err);
     }
   }
