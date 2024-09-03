@@ -4,7 +4,7 @@ services:
     image: postgres:latest
     restart: always
     environment:
-      POSTGRES_DB: user_service
+      POSTGRES_DB: contract_pay_service
       POSTGRES_USER: root
       POSTGRES_PASSWORD: root
     ports:
