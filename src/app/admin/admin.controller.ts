@@ -1,11 +1,11 @@
 import { Controller, Get, Query } from '@nestjs/common';
 import { AdminService } from './services/admin.service';
 
-@Controller('/admin')
+@Controller('admin')
 export class AdminController {
   constructor(private readonly adminService: AdminService) {}
 
-  @Get('/best-profession')
+  @Get('best-profession')
   async getBestProfession(
     @Query('start') start: string,
     @Query('end') end: string,
@@ -13,7 +13,7 @@ export class AdminController {
     return this.adminService.getBestProfession(start, end);
   }
 
-  @Get('/best-clients')
+  @Get('best-clients')
   async getBestClients(
     @Query('start') start: string,
     @Query('end') end: string,
