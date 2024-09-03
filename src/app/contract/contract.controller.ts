@@ -17,8 +17,13 @@ export class ContractController {
     return this.contractService.createContract(data);
   }
 
+  @Get('/')
+  async getContracts() {
+    return this.contractService.getContracts();
+  }
+
   @Get('/:id')
-  async getContract(@Param('id') id: string) {
-    return this.contractService.getContract(id);
+  async getContractById(@Param('id') id: string) {
+    return this.contractService.getSingleContracts(id);
   }
 }

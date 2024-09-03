@@ -23,9 +23,17 @@ export class ContractService {
     });
   }
 
-  async getContract(id: string) {
+  async getSingleContracts(id: string) {
     try {
       return await this.repository.findOne(id);
+    } catch (err) {
+      handleErrorCatch(err);
+    }
+  }
+
+  async getContracts() {
+    try {
+      return await this.repository.find();
     } catch (err) {
       handleErrorCatch(err);
     }

@@ -53,6 +53,6 @@ export const config = {
     name: envVars.DB_NAME,
     logging: envVars.DATABASE_LOGGING,
   },
-  jwtSecret: envVars.SECRET,
+  jwtSecret: envVars.JWT_SECRET,
   expeditorUrl: envVars.EXP_URL,
 };
