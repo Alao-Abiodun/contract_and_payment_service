@@ -74,13 +74,19 @@ export class ProfileRepository {
     }
   }
 
-  async depositBalance(id: string, amount: number) {
+  async depositBalance(clientId: string, amount: number) {
     try {
       await this.client.query('BEGIN');
+
       // Calculate total outstanding payments for unpaid jobs
       const outstandingRes = await this.client.query(
-        'SELECT SUM(price) as total_outstanding FROM jobs WHERE contract_id = $1 AND is_paid = false',
-        [id],
+        `
+        SELECT SUM(j.price) AS total_outstanding
+        FROM jobs j
+        JOIN contracts c ON j.contract_id = c.id
+        WHERE c.client_id = $1 AND j.is_paid = false
+        `,
+        [clientId],
       );
 
       const totalOutstanding = outstandingRes.rows[0]?.total_outstanding || 0;
@@ -96,13 +102,34 @@ export class ProfileRepository {
         );
       }
 
+      // Lock the profile row for update to prevent race conditions
+      const lockRes = await this.client.query(
+        `
+        SELECT balance 
+        FROM profiles 
+        WHERE id = $1 
+        FOR UPDATE;
+        `,
+        [clientId],
+      );
+
+      if (lockRes.rows.length === 0) {
+        throw new AppError('Profile not found', HttpStatus.NOT_FOUND);
+      }
+
       // Perform the deposit
-      await this.client.query(
-        'UPDATE profiles SET balance = balance + $1 WHERE id = $2',
-        [amount, id],
+      const balanceRes = await this.client.query(
+        `
+        UPDATE profiles
+        SET balance = balance + $2
+        WHERE id = $1
+        RETURNING balance;
+        `,
+        [clientId, amount],
       );
 
       await this.client.query('COMMIT');
+      return balanceRes.rows[0];
     } catch (error) {
       await this.client.query('ROLLBACK');
       handleErrorCatch(error);

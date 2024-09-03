@@ -7,10 +7,10 @@ stop_db:
 migrate:
 	db-migrate up
 
-migrate-undo:
+rollback:
 	db-migrate down
 
 server:
-	pnpm run start
+	pnpm run start:dev
 
 .PHONEY: start_db stop_db server
