@@ -8,6 +8,5 @@ import { AuthService } from './services/auth.service';
   imports: [DatabaseModule],
   providers: [AuthService, ProfileRepository],
   controllers: [AuthController],
-  exports: [AuthService, ProfileRepository],
 })
 export class AuthModule {}
