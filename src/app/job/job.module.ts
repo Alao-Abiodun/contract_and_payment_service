@@ -9,6 +9,5 @@ import { ProfileRepository } from '../auth/repositories/profile.repository';
   imports: [DatabaseModule],
   providers: [JobService, JobRepository, ProfileRepository],
   controllers: [JobController],
-  exports: [JobService, JobRepository, ProfileRepository],
 })
 export class JobModule {}

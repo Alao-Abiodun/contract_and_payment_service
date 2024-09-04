@@ -8,6 +8,5 @@ import { ContractRepository } from './repositories/contract.repository';
   imports: [DatabaseModule],
   providers: [ContractService, ContractRepository],
   controllers: [ContractController],
-  exports: [ContractService, ContractRepository],
 })
 export class ContractModule {}
