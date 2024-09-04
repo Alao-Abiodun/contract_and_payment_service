@@ -1,15 +1,15 @@
 /* Replace with your SQL commands */
 
-CREATE TYPE "profiles_role" AS ENUM (
-  'client',
-  'contractor'
-);
+-- CREATE TYPE "profiles_role" AS ENUM (
+--   'client',
+--   'contractor'
+-- );
 
-CREATE TYPE "contracts_status" AS ENUM (
-  'new',
-  'in_progress',
-  'terminated'
-);
+-- CREATE TYPE "contracts_status" AS ENUM (
+--   'new',
+--   'in_progress',
+--   'terminated'
+-- );
 
 CREATE TABLE "profiles" (
   "id" bigserial PRIMARY KEY,
@@ -58,4 +58,4 @@ ALTER TABLE "contracts" ADD FOREIGN KEY ("client_id") REFERENCES "profiles" ("id
 
 ALTER TABLE "jobs" ADD FOREIGN KEY ("contract_id") REFERENCES "contracts" ("id");
 
-ALTER TABLE "profiles" ADD CONSTRAINT balance_non_negative CHECK (balance >= 0);
+ALTER TABLE "profiles" ADD CONSTRAINT balance_non_negative CHECK (balance >= 0.0);

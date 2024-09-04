@@ -1,5 +1,4 @@
 import 'dotenv/config';
-import pg from 'pg';
 import { Client } from 'pg';
 
 export const DBClient = () => {

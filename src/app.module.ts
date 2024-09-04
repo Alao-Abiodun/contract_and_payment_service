@@ -23,12 +23,16 @@ export class AppModule implements OnApplicationBootstrap {
       .apply(AuthMiddleware)
       .forRoutes(
         { path: '/v1/contract/:id', method: RequestMethod.GET },
-        { path: '/v1/:id/pay', method: RequestMethod.POST },
+        { path: '/v1/jobs', method: RequestMethod.POST },
+        { path: '/v1/jobs/:id/pay', method: RequestMethod.POST },
       );
 
     consumer
       .apply(clientPermissionCheck)
-      .forRoutes({ path: '/v1/:id/pay', method: RequestMethod.POST });
+      .forRoutes(
+        { path: '/v1/jobs', method: RequestMethod.POST },
+        { path: '/v1/jobs/:id/pay', method: RequestMethod.POST },
+      );
   }
   async onApplicationBootstrap() {
     if (enviromentConfig.isDevelopment) {
