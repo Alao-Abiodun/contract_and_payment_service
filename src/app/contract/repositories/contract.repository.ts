@@ -41,4 +41,16 @@ export class ContractRepository {
       handleErrorCatch(err);
     }
   }
+
+  async updateStatus(id: string, status: string) {
+    try {
+      const res = await this.client.query(
+        'UPDATE contracts SET status = $1 WHERE id = $2 RETURNING *;',
+        [status, id],
+      );
+      return res.rows[0];
+    } catch (err) {
+      handleErrorCatch(err);
+    }
+  }
 }

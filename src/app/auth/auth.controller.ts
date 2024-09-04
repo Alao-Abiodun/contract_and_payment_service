@@ -2,7 +2,7 @@ import { Body, Controller, Inject, Param, Post } from '@nestjs/common';
 import { v4 as uuidv4 } from 'uuid';
 import { ApiBearerAuth, ApiTags } from '@nestjs/swagger';
 import { LoginDto } from './dto/auth.dto';
-import { Profile } from './interface/profile.interface';
+import { depositMoney, Profile } from './interface/profile.interface';
 import { hashPassword } from 'src/shared/utils/lib/bcrypt.helper';
 import { AuthService } from './services/auth.service';
 
@@ -17,7 +17,7 @@ export class AuthController {
     private readonly signupService: AuthService,
   ) {}
 
-  @Post('/signup')
+  @Post('signup')
   async signup(@Body() data: Profile) {
     const { email, password, first_name, last_name, profession, role } = data;
 
@@ -36,13 +36,13 @@ export class AuthController {
     return this.signupService.signup(userData);
   }
 
-  @Post('/login')
+  @Post('login')
   async login(@Body() data: LoginDto) {
     return this.loginService.login(data.email, data.password);
   }
 
-  @Post('/balances/deposit/:userId')
-  async deposit(@Param('userId') userId: string, @Body() amount: number) {
-    return this.loginService.deposit(userId, amount);
+  @Post('balances/deposit/:userId')
+  async deposit(@Param('userId') userId: string, @Body() data: depositMoney) {
+    return this.loginService.deposit(userId, data);
   }
 }
