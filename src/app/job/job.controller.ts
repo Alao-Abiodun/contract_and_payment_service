@@ -1,6 +1,6 @@
 import { Body, Controller, Get, Inject, Param, Post } from '@nestjs/common';
 import { JobService } from './services/job.service';
-import { Job } from './interface/job.interface';
+import { Job, payJob } from './interface/job.interface';
 import { ApiBearerAuth, ApiTags } from '@nestjs/swagger';
 
 @Controller('/v1/jobs')
@@ -23,7 +23,7 @@ export class JobController {
   }
 
   @Post('/:id/pay')
-  async payJob(@Param('id') id: string, @Body() amount: number) {
-    return this.jobService.payJob(id, amount);
+  async payJob(@Param('id') id: string, @Body() data: payJob) {
+    return this.jobService.payJob(id, data);
   }
 }

@@ -50,11 +50,10 @@ export class AuthService {
         throw new HttpException('Invalid password', HttpStatus.UNAUTHORIZED);
       }
 
-      console.log('profile', profile);
-
       const userToken = {
         id: profile.id,
         email: profile.email,
+        role: profile.role,
       };
 
       const profileToken = generateJwtToken(userToken, '1h');

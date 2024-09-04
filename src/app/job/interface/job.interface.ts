@@ -6,3 +6,7 @@ export interface Job {
   paid_date?: Date;
   contract_id: string;
 }
+
+export interface payJob {
+  amount: number;
+}
