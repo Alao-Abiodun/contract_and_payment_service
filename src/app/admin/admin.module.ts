@@ -8,6 +8,5 @@ import { AdminRepository } from './repositories/admin.repository';
   imports: [DatabaseModule],
   providers: [AdminService, AdminRepository],
   controllers: [AdminController],
-  exports: [AdminService],
 })
 export class AdminModule {}
