@@ -8,3 +8,7 @@ export interface Profile {
   role: 'client' | 'contractor';
   balance?: number;
 }
+
+export interface depositMoney {
+  amount: number;
+}

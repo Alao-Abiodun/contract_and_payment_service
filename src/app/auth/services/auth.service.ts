@@ -1,4 +1,4 @@
-import { Injectable, HttpException, HttpStatus } from '@nestjs/common';
+import { Injectable, HttpException, HttpStatus, Inject } from '@nestjs/common';
 import { handleErrorCatch } from 'src/shared/utils/helper';
 import { ProfileRepository } from '../repositories/profile.repository';
 import { comparePassword } from 'src/shared/utils/lib/bcrypt.helper';
@@ -8,9 +8,14 @@ import { Client } from 'pg';
 
 @Injectable()
 export class AuthService {
-  private readonly repository: ProfileRepository;
-  constructor(repository: ProfileRepository) {
-    this.repository = repository;
+  private readonly profileRepository: ProfileRepository;
+  private readonly client: Client;
+  constructor(
+    @Inject('DB_Client') client: Client,
+    profileRepository: ProfileRepository,
+  ) {
+    this.profileRepository = profileRepository;
+    this.client = client;
   }
 
   async signup(data: Profile) {
@@ -20,7 +25,7 @@ export class AuthService {
     // if (user) {
     //   throw new AppError('User already exists', HttpStatus.CONFLICT);
     // }
-    return await this.repository.createProfile({
+    return await this.profileRepository.createProfile({
       uuid,
       email,
       password,
@@ -33,7 +38,7 @@ export class AuthService {
 
   async getProfileByEmail(email: string) {
     try {
-      return await this.repository.getProfileByEmail(email);
+      return await this.profileRepository.getProfileByEmail(email);
     } catch (err) {
       handleErrorCatch(err);
     }
@@ -41,7 +46,7 @@ export class AuthService {
 
   async login(email: string, password: string) {
     try {
-      const profile = await this.repository.getProfileByEmail(email);
+      const profile = await this.profileRepository.getProfileByEmail(email);
       if (!profile) {
         throw new HttpException('User not found', HttpStatus.NOT_FOUND);
       }
@@ -64,10 +69,16 @@ export class AuthService {
     }
   }
 
-  async deposit(userId: string, amount: number) {
+  async deposit(userId: string, data: object) {
+    const { amount } = data as { amount: number };
     try {
       const _userId = parseInt(userId);
-      return await this.repository.updateBalance(_userId, amount);
+      const profileBalance = await this.profileRepository.depositBalance(
+        _userId,
+        amount,
+      );
+
+      return profileBalance;
     } catch (err) {
       handleErrorCatch(err);
     }

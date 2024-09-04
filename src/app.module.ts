@@ -25,6 +25,7 @@ export class AppModule implements OnApplicationBootstrap {
         { path: '/v1/contract/:id', method: RequestMethod.GET },
         { path: '/v1/jobs', method: RequestMethod.POST },
         { path: '/v1/jobs/:id/pay', method: RequestMethod.POST },
+        { path: '/v1/balances/deposit/:userId', method: RequestMethod.POST },
       );
 
     consumer
@@ -32,6 +33,7 @@ export class AppModule implements OnApplicationBootstrap {
       .forRoutes(
         { path: '/v1/jobs', method: RequestMethod.POST },
         { path: '/v1/jobs/:id/pay', method: RequestMethod.POST },
+        { path: '/v1/balances/deposit/:userId', method: RequestMethod.POST },
       );
   }
   async onApplicationBootstrap() {
