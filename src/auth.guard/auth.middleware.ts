@@ -52,10 +52,7 @@ export class clientPermissionCheck implements NestMiddleware {
         throw new HttpException(`User not authorized`, HttpStatus.UNAUTHORIZED);
       }
       const profile: any = jwt.verify(token, config.jwtSecret);
-      if (
-        profile?.role !== profileRoles.CLIENT &&
-        profile?.role !== profileRoles.CONTRACTOR
-      ) {
+      if (profile?.role !== profileRoles.CLIENT) {
         throw new HttpException(
           {
             status: HttpStatus.UNAUTHORIZED,

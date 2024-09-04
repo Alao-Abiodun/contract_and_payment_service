@@ -12,17 +12,17 @@ export class JobController {
     private readonly jobService: JobService,
   ) {}
 
-  @Post('/')
+  @Post('')
   async createJob(@Body() data: Job) {
     return this.jobService.createJob(data);
   }
 
-  @Get('/unpaid')
+  @Get('unpaid')
   async getUnpaidJobs() {
     return this.jobService.getUnPaidJobs();
   }
 
-  @Post('/:id/pay')
+  @Post(':id/pay')
   async payJob(@Param('id') id: string, @Body() data: payJob) {
     return this.jobService.payJob(id, data);
   }

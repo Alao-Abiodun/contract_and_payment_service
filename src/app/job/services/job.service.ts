@@ -79,11 +79,13 @@ export class JobService {
 
       const updatedJob = await this.jobRepository.payForJob(id);
 
+      await this.contractRepository.updateStatus(contract_id, 'completed');
+
       await this.client.query('COMMIT');
       return updatedJob;
-    } catch (error) {
+    } catch (err) {
       await this.client.query('ROLLBACK');
-      throw error;
+      handleErrorCatch(err);
     }
   }
 }

@@ -1,4 +1,4 @@
-import { HttpStatus, Inject, Injectable } from '@nestjs/common';
+import { HttpException, HttpStatus, Inject, Injectable } from '@nestjs/common';
 import { Client } from 'pg';
 import { Profile } from '../interface/profile.interface';
 import { handleErrorCatch } from 'src/shared/utils/helper';
@@ -69,7 +69,7 @@ export class ProfileRepository {
     }
   }
 
-  async depositBalance(clientId: string, amount: number) {
+  async depositBalance(clientId: number, amount: number) {
     try {
       await this.client.query('BEGIN');
 
@@ -91,7 +91,7 @@ export class ProfileRepository {
 
       // Check if the deposit amount exceeds the allowed limit
       if (amount > maxAllowedDeposit) {
-        throw new AppError(
+        throw new HttpException(
           'Deposit amount exceeds the allowed limit',
           HttpStatus.BAD_REQUEST,
         );
