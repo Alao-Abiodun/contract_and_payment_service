@@ -1,6 +1,5 @@
 import { config as enviromentConfig } from 'src/shared/config';
 import * as jwt from 'jsonwebtoken';
-import { JwtPayload } from 'jsonwebtoken';
 
 /**
  *
@@ -27,9 +26,7 @@ export const generateJwtToken = (
  * @param token the authentication token
  * @returns boolean | object
  */
-export const verifyJwtToken = (
-  token: string,
-): string | boolean | JwtPayload => {
+export const verifyJwtToken = (token: string): any => {
   try {
     return jwt.verify(token, String(process.env.JWT_SECRET));
   } catch (err) {
