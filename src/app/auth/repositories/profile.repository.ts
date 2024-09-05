@@ -22,7 +22,6 @@ export class ProfileRepository {
         'INSERT INTO profiles (uuid, email, password, first_name, last_name, profession, role) VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING *;',
         [uuid, email, password, first_name, last_name, profession, role],
       );
-      // this.client.end();
       return res.rows[0];
     } catch (err) {
       console.log('err', err);
