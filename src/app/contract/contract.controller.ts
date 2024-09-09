@@ -11,7 +11,7 @@ import { ContractService } from './services/contract.service';
 import { Contract } from './interface/contract.interface';
 import { ApiBearerAuth, ApiTags } from '@nestjs/swagger';
 
-@Controller('/v1/contract')
+@Controller('v1/contract')
 @ApiTags('auth')
 @ApiBearerAuth()
 export class ContractController {
