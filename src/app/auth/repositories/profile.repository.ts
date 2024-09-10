@@ -59,11 +59,16 @@ export class ProfileRepository {
 
   async updateBalance(profileId: number, amount: number) {
     try {
+      await this.client.query('BEGIN');
+
       await this.client.query(
         'UPDATE profiles SET balance = balance + $1 WHERE id = $2',
         [amount, profileId],
       );
+
+      await this.client.query('COMMIT');
     } catch (err) {
+      await this.client.query('ROLLBACK');
       handleErrorCatch(err);
     }
   }

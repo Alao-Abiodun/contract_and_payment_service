@@ -44,12 +44,17 @@ export class ContractRepository {
 
   async updateStatus(id: string, status: string) {
     try {
+      await this.client.query('BEGIN');
+
       const res = await this.client.query(
         'UPDATE contracts SET status = $1 WHERE id = $2 RETURNING *;',
         [status, id],
       );
+
+      await this.client.query('COMMIT');
       return res.rows[0];
     } catch (err) {
+      await this.client.query('ROLLBACK');
       handleErrorCatch(err);
     }
   }
