@@ -47,7 +47,7 @@ export class AdminRepository {
         `
         SELECT 
             p.id AS client_id,
-            p.first_name || ' ' || p.last_name AS client_name,
+            CONCAT(p.first_name, ' ', p.last_name) AS client_name,
             SUM(j.price) AS total_paid
             FROM 
                 jobs j
