@@ -4,10 +4,7 @@ import { AdminRepository } from '../repositories/admin.repository';
 
 @Injectable()
 export class AdminService {
-  private readonly repository: AdminRepository;
-  constructor(repository: AdminRepository) {
-    this.repository = repository;
-  }
+  constructor(private readonly repository: AdminRepository) {}
 
   async getBestProfession(start: string, end: string) {
     try {

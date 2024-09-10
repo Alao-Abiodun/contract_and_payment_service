@@ -7,10 +7,7 @@ import { v4 as uuidv4 } from 'uuid';
 
 @Injectable()
 export class ContractService {
-  private readonly repository: ContractRepository;
-  constructor(repository: ContractRepository) {
-    this.repository = repository;
-  }
+  constructor(private readonly repository: ContractRepository) {}
 
   async createContract(data: Contract) {
     const { terms, client_id, contractor_id } = data;

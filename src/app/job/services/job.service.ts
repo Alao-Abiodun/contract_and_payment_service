@@ -10,21 +10,11 @@ import { ContractRepository } from 'src/app/contract/repositories/contract.repos
 
 @Injectable()
 export class JobService {
-  private readonly jobRepository: JobRepository;
-  private readonly profileRepository: ProfileRepository;
-  private readonly contractRepository: ContractRepository;
-  private readonly client: Client;
   constructor(
-    @Inject('DB_Client') client: Client,
-    jobRepository: JobRepository,
-    profileRepository: ProfileRepository,
-    contractRepository: ContractRepository,
-  ) {
-    this.jobRepository = jobRepository;
-    this.profileRepository = profileRepository;
-    this.contractRepository = contractRepository;
-    this.client = client;
-  }
+    private readonly jobRepository: JobRepository,
+    private readonly profileRepository: ProfileRepository,
+    private readonly contractRepository: ContractRepository,
+  ) {}
 
   async createJob(data: Job) {
     const { description, price, contract_id } = data;
@@ -53,8 +43,6 @@ export class JobService {
   async payJob(id: string, data: object) {
     const { amount } = data as { amount: number };
     try {
-      await this.client.query('BEGIN');
-
       const job = await this.jobRepository.findOne(id);
       if (!job) {
         throw new AppError('Job not found', HttpStatus.NOT_FOUND);
@@ -74,17 +62,17 @@ export class JobService {
         throw new AppError('Insufficient balance', HttpStatus.BAD_REQUEST);
       }
 
-      await this.profileRepository.updateBalance(client_id, -amount);
-      await this.profileRepository.updateBalance(contractor_id, amount);
+      await Promise.all([
+        this.profileRepository.updateBalance(client_id, -amount),
+        this.profileRepository.updateBalance(contractor_id, amount),
+      ]);
 
       const updatedJob = await this.jobRepository.payForJob(id);
 
       await this.contractRepository.updateStatus(contract_id, 'completed');
 
-      await this.client.query('COMMIT');
       return updatedJob;
     } catch (err) {
-      await this.client.query('ROLLBACK');
       handleErrorCatch(err);
     }
   }
