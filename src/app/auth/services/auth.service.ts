@@ -4,19 +4,10 @@ import { ProfileRepository } from '../repositories/profile.repository';
 import { comparePassword } from 'src/shared/utils/lib/bcrypt.helper';
 import { Profile } from '../interface/profile.interface';
 import { generateJwtToken } from 'src/shared/utils/lib/jwt.helper';
-import { Client } from 'pg';
 
 @Injectable()
 export class AuthService {
-  private readonly profileRepository: ProfileRepository;
-  private readonly client: Client;
-  constructor(
-    @Inject('DB_Client') client: Client,
-    profileRepository: ProfileRepository,
-  ) {
-    this.profileRepository = profileRepository;
-    this.client = client;
-  }
+  constructor(private readonly profileRepository: ProfileRepository) {}
 
   async signup(data: Profile) {
     const { uuid, email, password, first_name, last_name, profession, role } =

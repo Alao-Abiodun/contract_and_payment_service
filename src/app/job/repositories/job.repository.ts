@@ -52,12 +52,17 @@ export class JobRepository {
 
   async payForJob(id: string) {
     try {
+      await this.client.query('BEGIN');
+
       const res = await this.client.query(
         'UPDATE jobs SET is_paid = true, paid_date = NOW() WHERE id = $1 RETURNING *;',
         [id],
       );
+
+      await this.client.query('COMMIT');
       return res.rows[0];
     } catch (err) {
+      await this.client.query('ROLLBACK');
       handleErrorCatch(err);
     }
   }
