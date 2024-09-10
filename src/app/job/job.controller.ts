@@ -7,10 +7,7 @@ import { ApiBearerAuth, ApiTags } from '@nestjs/swagger';
 @ApiTags('auth')
 @ApiBearerAuth()
 export class JobController {
-  constructor(
-    @Inject(JobService)
-    private readonly jobService: JobService,
-  ) {}
+  constructor(private readonly jobService: JobService) {}
 
   @Post('')
   async createJob(@Body() data: Job) {
