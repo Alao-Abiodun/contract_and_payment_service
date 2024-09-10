@@ -15,10 +15,7 @@ import { ApiBearerAuth, ApiTags } from '@nestjs/swagger';
 @ApiTags('auth')
 @ApiBearerAuth()
 export class ContractController {
-  constructor(
-    @Inject(ContractService)
-    private readonly contractService: ContractService,
-  ) {}
+  constructor(private readonly contractService: ContractService) {}
 
   @Post()
   async createContract(@Body() data: Contract) {

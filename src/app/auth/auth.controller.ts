@@ -11,9 +11,7 @@ import { AuthService } from './services/auth.service';
 @ApiBearerAuth()
 export class AuthController {
   constructor(
-    @Inject(AuthService)
     private readonly loginService: AuthService,
-    @Inject(AuthService)
     private readonly signupService: AuthService,
   ) {}
 
